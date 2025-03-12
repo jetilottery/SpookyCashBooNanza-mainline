@@ -1,0 +1,363 @@
+
+BuyButton.jpg
+size: 1536,830
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/sweep/sweep_00
+  rotate: false
+  xy: 2, 738
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_01
+  rotate: false
+  xy: 272, 738
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_02
+  rotate: false
+  xy: 542, 738
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_03
+  rotate: false
+  xy: 812, 738
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_04
+  rotate: false
+  xy: 1082, 738
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_05
+  rotate: false
+  xy: 2, 646
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_06
+  rotate: false
+  xy: 272, 646
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_07
+  rotate: false
+  xy: 542, 646
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_08
+  rotate: false
+  xy: 812, 646
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_09
+  rotate: false
+  xy: 1082, 646
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_10
+  rotate: true
+  xy: 1352, 560
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_11
+  rotate: true
+  xy: 1444, 560
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_12
+  rotate: false
+  xy: 2, 554
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_13
+  rotate: false
+  xy: 272, 554
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_14
+  rotate: false
+  xy: 542, 554
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_15
+  rotate: false
+  xy: 812, 554
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_16
+  rotate: false
+  xy: 1082, 554
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_17
+  rotate: false
+  xy: 2, 462
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_18
+  rotate: false
+  xy: 272, 462
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_19
+  rotate: false
+  xy: 542, 462
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_20
+  rotate: false
+  xy: 812, 462
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_21
+  rotate: false
+  xy: 1082, 462
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_22
+  rotate: false
+  xy: 2, 370
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_23
+  rotate: false
+  xy: 272, 370
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_24
+  rotate: false
+  xy: 542, 370
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_25
+  rotate: false
+  xy: 812, 370
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_26
+  rotate: false
+  xy: 1082, 370
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_27
+  rotate: true
+  xy: 1352, 290
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_28
+  rotate: true
+  xy: 1444, 290
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_29
+  rotate: false
+  xy: 2, 278
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_30
+  rotate: false
+  xy: 272, 278
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_31
+  rotate: false
+  xy: 542, 278
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_32
+  rotate: false
+  xy: 812, 278
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_33
+  rotate: false
+  xy: 1082, 278
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_34
+  rotate: false
+  xy: 2, 186
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_35
+  rotate: false
+  xy: 272, 186
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_36
+  rotate: false
+  xy: 542, 186
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_37
+  rotate: false
+  xy: 812, 186
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_38
+  rotate: false
+  xy: 1082, 186
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_39
+  rotate: false
+  xy: 2, 94
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_40
+  rotate: false
+  xy: 272, 94
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_41
+  rotate: false
+  xy: 542, 94
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_42
+  rotate: false
+  xy: 812, 94
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_43
+  rotate: false
+  xy: 1082, 94
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_44
+  rotate: true
+  xy: 1352, 20
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_45
+  rotate: true
+  xy: 1444, 20
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_46
+  rotate: false
+  xy: 2, 2
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_47
+  rotate: false
+  xy: 272, 2
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_48
+  rotate: false
+  xy: 542, 2
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_49
+  rotate: false
+  xy: 812, 2
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1
+nonTrans/sweep/sweep_50
+  rotate: false
+  xy: 1082, 2
+  size: 268, 90
+  orig: 268, 90
+  offset: 0, 0
+  index: -1

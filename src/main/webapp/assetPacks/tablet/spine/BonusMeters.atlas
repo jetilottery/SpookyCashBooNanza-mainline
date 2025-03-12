@@ -1,0 +1,312 @@
+
+BonusMeters.jpg
+size: 460,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/bonusStarburst
+  rotate: false
+  xy: 2, 2
+  size: 398, 387
+  orig: 405, 389
+  offset: 2, 2
+  index: -1
+nonTrans/candleLight
+  rotate: false
+  xy: 402, 333
+  size: 56, 56
+  orig: 200, 200
+  offset: 72, 89
+  index: -1
+
+BonusMeters2.jpg
+size: 1901,1130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/parts/parts_01
+  rotate: false
+  xy: 2, 873
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_02
+  rotate: false
+  xy: 309, 873
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_03
+  rotate: false
+  xy: 616, 873
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_04
+  rotate: true
+  xy: 923, 823
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_05
+  rotate: false
+  xy: 2, 616
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_06
+  rotate: true
+  xy: 309, 566
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_07
+  rotate: true
+  xy: 2, 309
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_08
+  rotate: true
+  xy: 566, 566
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_09
+  rotate: false
+  xy: 823, 566
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_10
+  rotate: true
+  xy: 1130, 516
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_11
+  rotate: false
+  xy: 1180, 873
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_12
+  rotate: false
+  xy: 259, 309
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_13
+  rotate: true
+  xy: 566, 259
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_14
+  rotate: false
+  xy: 2, 52
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_15
+  rotate: true
+  xy: 309, 2
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_16
+  rotate: true
+  xy: 823, 259
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_17
+  rotate: false
+  xy: 1080, 259
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_18
+  rotate: true
+  xy: 1387, 566
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_19
+  rotate: false
+  xy: 1487, 873
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_20
+  rotate: true
+  xy: 1387, 259
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_21
+  rotate: true
+  xy: 1644, 566
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_22
+  rotate: true
+  xy: 1644, 259
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_23
+  rotate: false
+  xy: 566, 2
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_24
+  rotate: false
+  xy: 873, 2
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_25
+  rotate: false
+  xy: 1180, 2
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+nonTrans/parts/parts_26
+  rotate: false
+  xy: 1487, 2
+  size: 305, 255
+  orig: 305, 255
+  offset: 0, 0
+  index: -1
+
+BonusMeters.png
+size: 736,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/candle1
+  rotate: false
+  xy: 542, 4
+  size: 34, 47
+  orig: 200, 200
+  offset: 83, 59
+  index: -1
+trans/candle2
+  rotate: true
+  xy: 271, 5
+  size: 36, 48
+  orig: 200, 200
+  offset: 82, 58
+  index: -1
+trans/candle3
+  rotate: false
+  xy: 505, 2
+  size: 35, 48
+  orig: 200, 200
+  offset: 82, 58
+  index: -1
+trans/candle4
+  rotate: true
+  xy: 321, 5
+  size: 36, 48
+  orig: 200, 200
+  offset: 82, 58
+  index: -1
+trans/candle5
+  rotate: true
+  xy: 371, 5
+  size: 36, 48
+  orig: 200, 200
+  offset: 82, 58
+  index: -1
+trans/candle6
+  rotate: false
+  xy: 578, 4
+  size: 33, 47
+  orig: 200, 200
+  offset: 83, 59
+  index: -1
+trans/candleFlame
+  rotate: true
+  xy: 613, 12
+  size: 25, 42
+  orig: 200, 200
+  offset: 88, 101
+  index: -1
+trans/candleFlame_organ
+  rotate: true
+  xy: 657, 12
+  size: 25, 42
+  orig: 200, 200
+  offset: 88, 101
+  index: -1
+trans/coffinFill
+  rotate: false
+  xy: 514, 53
+  size: 120, 121
+  orig: 268, 171
+  offset: 22, 26
+  index: -1
+trans/coffinIcon
+  rotate: false
+  xy: 636, 39
+  size: 98, 135
+  orig: 268, 171
+  offset: 132, 21
+  index: -1
+trans/darkPip
+  rotate: true
+  xy: 421, 5
+  size: 45, 82
+  orig: 268, 171
+  offset: 7, 65
+  index: -1
+trans/meterBanner
+  rotate: false
+  xy: 2, 4
+  size: 267, 170
+  orig: 268, 171
+  offset: 1, 1
+  index: -1
+trans/organFill
+  rotate: false
+  xy: 392, 52
+  size: 120, 122
+  orig: 268, 171
+  offset: 123, 25
+  index: -1
+trans/organIcon
+  rotate: true
+  xy: 271, 43
+  size: 131, 119
+  orig: 268, 171
+  offset: 119, 33
+  index: -1

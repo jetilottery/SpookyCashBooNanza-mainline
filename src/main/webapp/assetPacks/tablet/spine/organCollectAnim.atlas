@@ -1,0 +1,236 @@
+
+organCollectAnim.jpg
+size: 1992,1902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/frameGlow
+  rotate: false
+  xy: 2, 1742
+  size: 330, 158
+  orig: 864, 864
+  offset: 269, 354
+  index: -1
+nonTrans/sparkleBurst_13
+  rotate: false
+  xy: 334, 1697
+  size: 303, 203
+  orig: 864, 864
+  offset: 285, 314
+  index: -1
+nonTrans/sparkleBurst_14
+  rotate: false
+  xy: 639, 1685
+  size: 317, 215
+  orig: 864, 864
+  offset: 279, 308
+  index: -1
+nonTrans/sparkleBurst_15
+  rotate: false
+  xy: 958, 1685
+  size: 328, 215
+  orig: 864, 864
+  offset: 276, 311
+  index: -1
+nonTrans/sparkleBurst_16
+  rotate: false
+  xy: 1288, 1680
+  size: 344, 220
+  orig: 864, 864
+  offset: 269, 308
+  index: -1
+nonTrans/sparkleBurst_17
+  rotate: false
+  xy: 1634, 1674
+  size: 356, 226
+  orig: 864, 864
+  offset: 261, 307
+  index: -1
+nonTrans/sparkleBurst_18
+  rotate: false
+  xy: 2, 1464
+  size: 379, 231
+  orig: 864, 864
+  offset: 254, 304
+  index: -1
+nonTrans/sparkleBurst_19
+  rotate: false
+  xy: 795, 1446
+  size: 391, 237
+  orig: 864, 864
+  offset: 248, 302
+  index: -1
+nonTrans/sparkleBurst_20
+  rotate: false
+  xy: 383, 1448
+  size: 410, 235
+  orig: 864, 864
+  offset: 239, 308
+  index: -1
+nonTrans/sparkleBurst_21
+  rotate: false
+  xy: 1188, 1440
+  size: 427, 238
+  orig: 864, 864
+  offset: 233, 308
+  index: -1
+nonTrans/sparkleBurst_22
+  rotate: true
+  xy: 1617, 1231
+  size: 441, 240
+  orig: 864, 864
+  offset: 224, 310
+  index: -1
+nonTrans/sparkleBurst_23
+  rotate: false
+  xy: 2, 1200
+  size: 458, 246
+  orig: 864, 864
+  offset: 216, 306
+  index: -1
+nonTrans/sparkleBurst_24
+  rotate: false
+  xy: 462, 1190
+  size: 474, 254
+  orig: 864, 864
+  offset: 210, 301
+  index: -1
+nonTrans/sparkleBurst_25
+  rotate: false
+  xy: 938, 1176
+  size: 491, 262
+  orig: 864, 864
+  offset: 203, 295
+  index: -1
+nonTrans/sparkleBurst_26
+  rotate: false
+  xy: 1431, 967
+  size: 502, 262
+  orig: 864, 864
+  offset: 196, 297
+  index: -1
+nonTrans/sparkleBurst_27
+  rotate: false
+  xy: 2, 909
+  size: 522, 279
+  orig: 864, 864
+  offset: 186, 284
+  index: -1
+nonTrans/sparkleBurst_28
+  rotate: false
+  xy: 526, 887
+  size: 534, 287
+  orig: 864, 864
+  offset: 183, 279
+  index: -1
+nonTrans/sparkleBurst_29
+  rotate: false
+  xy: 1062, 668
+  size: 557, 297
+  orig: 864, 864
+  offset: 171, 271
+  index: -1
+nonTrans/sparkleBurst_30
+  rotate: false
+  xy: 2, 578
+  size: 572, 307
+  orig: 864, 864
+  offset: 164, 264
+  index: -1
+nonTrans/sparkleBurst_31
+  rotate: true
+  xy: 1621, 375
+  size: 590, 318
+  orig: 864, 864
+  offset: 155, 256
+  index: -1
+nonTrans/sparkleBurst_32
+  rotate: false
+  xy: 576, 340
+  size: 593, 326
+  orig: 864, 864
+  offset: 152, 249
+  index: -1
+nonTrans/sparkleBurst_33
+  rotate: true
+  xy: 1171, 67
+  size: 599, 328
+  orig: 864, 864
+  offset: 139, 249
+  index: -1
+nonTrans/sparkleBurst_39
+  rotate: false
+  xy: 2, 2
+  size: 608, 336
+  orig: 864, 864
+  offset: 136, 240
+  index: -1
+
+organCollectAnim2.jpg
+size: 1840,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/sparkleBurst_34
+  rotate: false
+  xy: 1221, 3
+  size: 604, 337
+  orig: 864, 864
+  offset: 139, 240
+  index: -1
+nonTrans/sparkleBurst_35
+  rotate: false
+  xy: 1230, 342
+  size: 605, 337
+  orig: 864, 864
+  offset: 139, 240
+  index: -1
+nonTrans/sparkleBurst_36
+  rotate: false
+  xy: 2, 2
+  size: 607, 337
+  orig: 864, 864
+  offset: 137, 240
+  index: -1
+nonTrans/sparkleBurst_37
+  rotate: false
+  xy: 612, 341
+  size: 607, 337
+  orig: 864, 864
+  offset: 137, 240
+  index: -1
+nonTrans/sparkleBurst_38
+  rotate: false
+  xy: 2, 680
+  size: 616, 337
+  orig: 864, 864
+  offset: 128, 240
+  index: -1
+nonTrans/sparkleBurst_40
+  rotate: false
+  xy: 1230, 681
+  size: 608, 336
+  orig: 864, 864
+  offset: 136, 240
+  index: -1
+nonTrans/sparkleBurst_41
+  rotate: false
+  xy: 2, 341
+  size: 608, 337
+  orig: 864, 864
+  offset: 136, 239
+  index: -1
+nonTrans/sparkleBurst_42
+  rotate: false
+  xy: 620, 680
+  size: 608, 337
+  orig: 864, 864
+  offset: 136, 239
+  index: -1
+nonTrans/sparkleBurst_43
+  rotate: false
+  xy: 611, 3
+  size: 607, 336
+  orig: 864, 864
+  offset: 136, 239
+  index: -1

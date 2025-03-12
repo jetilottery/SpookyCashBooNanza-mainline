@@ -1,0 +1,61 @@
+
+coffinBonus_wheel.jpg
+size: 781,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelGlow/wheelGlow_00
+  rotate: false
+  xy: 2, 2
+  size: 777, 816
+  orig: 1000, 1000
+  offset: 121, 91
+  index: -1
+
+coffinBonus_wheel.png
+size: 1995,1904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coffin1_lid
+  rotate: true
+  xy: 514, 15
+  size: 240, 497
+  orig: 508, 660
+  offset: 136, 84
+  index: -1
+trans/coffin2_lid
+  rotate: true
+  xy: 2, 2
+  size: 253, 510
+  orig: 508, 660
+  offset: 129, 77
+  index: -1
+trans/coffin3_lid
+  rotate: false
+  xy: 1687, 854
+  size: 303, 509
+  orig: 508, 660
+  offset: 102, 76
+  index: -1
+trans/coffin4_lid
+  rotate: false
+  xy: 1687, 351
+  size: 289, 501
+  orig: 508, 660
+  offset: 110, 81
+  index: -1
+trans/coffin5_lid
+  rotate: false
+  xy: 1687, 1365
+  size: 306, 537
+  orig: 508, 660
+  offset: 106, 68
+  index: -1
+trans/wheel
+  rotate: false
+  xy: 2, 257
+  size: 1683, 1645
+  orig: 2048, 2048
+  offset: 180, 208
+  index: -1

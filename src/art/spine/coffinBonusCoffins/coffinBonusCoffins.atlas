@@ -1,0 +1,1023 @@
+
+coffinBonusCoffins.jpg
+size: 1785,2020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coffinGlow/coffinGlow_0000
+  rotate: false
+  xy: 296, 1117
+  size: 288, 450
+  orig: 360, 600
+  offset: 44, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0001
+  rotate: false
+  xy: 2, 1568
+  size: 292, 450
+  orig: 360, 600
+  offset: 44, 76
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0002
+  rotate: true
+  xy: 1334, 1730
+  size: 288, 449
+  orig: 360, 600
+  offset: 45, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0003
+  rotate: false
+  xy: 2, 1116
+  size: 292, 450
+  orig: 360, 600
+  offset: 43, 76
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0004
+  rotate: false
+  xy: 591, 1569
+  size: 289, 449
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0005
+  rotate: false
+  xy: 296, 1569
+  size: 293, 449
+  orig: 360, 600
+  offset: 44, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0006
+  rotate: true
+  xy: 1334, 1441
+  size: 287, 449
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0007
+  rotate: false
+  xy: 2, 213
+  size: 289, 449
+  orig: 360, 600
+  offset: 45, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0008
+  rotate: true
+  xy: 876, 1151
+  size: 288, 449
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0009
+  rotate: true
+  xy: 1327, 1152
+  size: 287, 449
+  orig: 360, 600
+  offset: 47, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0010
+  rotate: true
+  xy: 876, 862
+  size: 287, 449
+  orig: 360, 600
+  offset: 47, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0011
+  rotate: true
+  xy: 1319, 288
+  size: 285, 449
+  orig: 360, 600
+  offset: 48, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0012
+  rotate: true
+  xy: 868, 2
+  size: 284, 449
+  orig: 360, 600
+  offset: 48, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0013
+  rotate: false
+  xy: 293, 213
+  size: 286, 449
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0014
+  rotate: true
+  xy: 882, 1441
+  size: 287, 450
+  orig: 360, 600
+  offset: 45, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0015
+  rotate: false
+  xy: 586, 1117
+  size: 288, 450
+  orig: 360, 600
+  offset: 44, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0016
+  rotate: false
+  xy: 2, 664
+  size: 289, 450
+  orig: 360, 600
+  offset: 44, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0017
+  rotate: true
+  xy: 882, 1730
+  size: 288, 450
+  orig: 360, 600
+  offset: 45, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0018
+  rotate: false
+  xy: 293, 664
+  size: 286, 450
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0019
+  rotate: false
+  xy: 581, 213
+  size: 285, 450
+  orig: 360, 600
+  offset: 47, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0020
+  rotate: true
+  xy: 869, 576
+  size: 284, 450
+  orig: 360, 600
+  offset: 48, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0021
+  rotate: true
+  xy: 1319, 2
+  size: 284, 449
+  orig: 360, 600
+  offset: 48, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0022
+  rotate: true
+  xy: 1321, 575
+  size: 285, 450
+  orig: 360, 600
+  offset: 47, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0023
+  rotate: true
+  xy: 1327, 862
+  size: 288, 448
+  orig: 360, 600
+  offset: 46, 78
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0024
+  rotate: false
+  xy: 581, 665
+  size: 286, 450
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0025
+  rotate: true
+  xy: 868, 288
+  size: 286, 449
+  orig: 360, 600
+  offset: 48, 77
+  index: -1
+
+coffinBonusCoffins2.jpg
+size: 1144,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coffinGlow/coffinGlow_0026
+  rotate: false
+  xy: 2, 3
+  size: 286, 448
+  orig: 360, 600
+  offset: 46, 78
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0027
+  rotate: false
+  xy: 862, 5
+  size: 280, 446
+  orig: 360, 600
+  offset: 49, 79
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0028
+  rotate: false
+  xy: 577, 2
+  size: 283, 449
+  orig: 360, 600
+  offset: 46, 77
+  index: -1
+nonTrans/coffinGlow/coffinGlow_0029
+  rotate: false
+  xy: 290, 4
+  size: 285, 447
+  orig: 360, 600
+  offset: 47, 78
+  index: -1
+
+coffinBonusCoffins3.jpg
+size: 1921,1222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/graveSparkBurst/graveSparkBurst_0000
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0001
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0002
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0003
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0044
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0045
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0046
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0047
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0048
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0049
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0050
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0051
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0052
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0053
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0054
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0055
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0056
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0057
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0058
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0059
+  rotate: false
+  xy: 214, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0004
+  rotate: true
+  xy: 1735, 493
+  size: 219, 183
+  orig: 300, 300
+  offset: 33, 71
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0005
+  rotate: false
+  xy: 259, 2
+  size: 240, 212
+  orig: 300, 300
+  offset: 26, 60
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0006
+  rotate: false
+  xy: 1320, 8
+  size: 239, 231
+  orig: 300, 300
+  offset: 24, 53
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0007
+  rotate: false
+  xy: 1490, 472
+  size: 243, 240
+  orig: 300, 300
+  offset: 22, 51
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0008
+  rotate: false
+  xy: 512, 212
+  size: 246, 246
+  orig: 300, 300
+  offset: 21, 49
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0009
+  rotate: true
+  xy: 261, 461
+  size: 249, 250
+  orig: 300, 300
+  offset: 19, 48
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0010
+  rotate: false
+  xy: 1545, 714
+  size: 250, 253
+  orig: 300, 300
+  offset: 19, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0011
+  rotate: true
+  xy: 1548, 969
+  size: 251, 253
+  orig: 300, 300
+  offset: 18, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0012
+  rotate: false
+  xy: 1291, 714
+  size: 252, 253
+  orig: 300, 300
+  offset: 18, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0013
+  rotate: true
+  xy: 779, 967
+  size: 253, 254
+  orig: 300, 300
+  offset: 17, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0014
+  rotate: true
+  xy: 1035, 967
+  size: 253, 254
+  orig: 300, 300
+  offset: 17, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0015
+  rotate: true
+  xy: 778, 713
+  size: 252, 254
+  orig: 300, 300
+  offset: 17, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0016
+  rotate: false
+  xy: 2, 198
+  size: 255, 254
+  orig: 300, 300
+  offset: 14, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0017
+  rotate: false
+  xy: 521, 967
+  size: 256, 253
+  orig: 300, 300
+  offset: 13, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0018
+  rotate: false
+  xy: 2, 966
+  size: 257, 254
+  orig: 300, 300
+  offset: 12, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0019
+  rotate: false
+  xy: 2, 454
+  size: 256, 254
+  orig: 300, 300
+  offset: 12, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0020
+  rotate: false
+  xy: 2, 710
+  size: 257, 254
+  orig: 300, 300
+  offset: 11, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0021
+  rotate: false
+  xy: 261, 712
+  size: 257, 253
+  orig: 300, 300
+  offset: 10, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0022
+  rotate: false
+  xy: 261, 967
+  size: 258, 253
+  orig: 300, 300
+  offset: 9, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0023
+  rotate: false
+  xy: 520, 713
+  size: 256, 252
+  orig: 300, 300
+  offset: 10, 46
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0024
+  rotate: false
+  xy: 1291, 969
+  size: 255, 251
+  orig: 300, 300
+  offset: 10, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0025
+  rotate: false
+  xy: 1034, 714
+  size: 255, 251
+  orig: 300, 300
+  offset: 9, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0026
+  rotate: true
+  xy: 260, 216
+  size: 243, 250
+  orig: 300, 300
+  offset: 22, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0027
+  rotate: false
+  xy: 513, 460
+  size: 244, 250
+  orig: 300, 300
+  offset: 22, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0028
+  rotate: false
+  xy: 759, 462
+  size: 244, 249
+  orig: 300, 300
+  offset: 22, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0029
+  rotate: false
+  xy: 760, 212
+  size: 245, 248
+  orig: 300, 300
+  offset: 22, 47
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0030
+  rotate: false
+  xy: 1005, 465
+  size: 235, 246
+  orig: 300, 300
+  offset: 22, 49
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0031
+  rotate: false
+  xy: 1242, 468
+  size: 246, 244
+  orig: 300, 300
+  offset: 22, 50
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0032
+  rotate: false
+  xy: 1007, 218
+  size: 232, 245
+  orig: 300, 300
+  offset: 22, 48
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0033
+  rotate: true
+  xy: 1490, 241
+  size: 229, 242
+  orig: 300, 300
+  offset: 23, 50
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0034
+  rotate: true
+  xy: 1561, 13
+  size: 226, 241
+  orig: 300, 300
+  offset: 24, 49
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0035
+  rotate: true
+  xy: 1242, 250
+  size: 216, 238
+  orig: 300, 300
+  offset: 28, 49
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0036
+  rotate: true
+  xy: 1088, 7
+  size: 209, 230
+  orig: 300, 300
+  offset: 33, 53
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0037
+  rotate: true
+  xy: 689, 12
+  size: 198, 217
+  orig: 300, 300
+  offset: 43, 54
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0038
+  rotate: true
+  xy: 2, 3
+  size: 193, 210
+  orig: 300, 300
+  offset: 47, 55
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0039
+  rotate: false
+  xy: 501, 2
+  size: 186, 208
+  orig: 300, 300
+  offset: 52, 54
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0040
+  rotate: false
+  xy: 908, 13
+  size: 178, 197
+  orig: 300, 300
+  offset: 55, 58
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0041
+  rotate: true
+  xy: 1734, 303
+  size: 167, 185
+  orig: 300, 300
+  offset: 57, 59
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0042
+  rotate: true
+  xy: 1803, 1094
+  size: 126, 81
+  orig: 300, 300
+  offset: 57, 65
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0043
+  rotate: true
+  xy: 1803, 968
+  size: 124, 69
+  orig: 300, 300
+  offset: 57, 59
+  index: -1
+
+coffinBonusCoffins4.jpg
+size: 1938,1897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeBurst/key_smokeBurst_00
+  rotate: false
+  xy: 2, 1894
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_01
+  rotate: true
+  xy: 189, 1721
+  size: 174, 175
+  orig: 480, 480
+  offset: 152, 152
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_02
+  rotate: false
+  xy: 570, 1683
+  size: 218, 212
+  orig: 480, 480
+  offset: 131, 129
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_03
+  rotate: false
+  xy: 1029, 1646
+  size: 258, 249
+  orig: 480, 480
+  offset: 113, 108
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_04
+  rotate: false
+  xy: 1289, 1614
+  size: 290, 281
+  orig: 480, 480
+  offset: 98, 91
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_05
+  rotate: false
+  xy: 2, 1417
+  size: 314, 302
+  orig: 480, 480
+  offset: 87, 80
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_06
+  rotate: false
+  xy: 318, 1359
+  size: 333, 322
+  orig: 480, 480
+  offset: 79, 69
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_07
+  rotate: false
+  xy: 1346, 1269
+  size: 351, 340
+  orig: 480, 480
+  offset: 70, 60
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_08
+  rotate: false
+  xy: 2, 1001
+  size: 367, 356
+  orig: 480, 480
+  offset: 63, 52
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_09
+  rotate: false
+  xy: 371, 953
+  size: 381, 371
+  orig: 480, 480
+  offset: 57, 44
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_10
+  rotate: false
+  xy: 1136, 884
+  size: 394, 383
+  orig: 480, 480
+  offset: 51, 38
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_11
+  rotate: false
+  xy: 1532, 873
+  size: 404, 394
+  orig: 480, 480
+  offset: 47, 32
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_12
+  rotate: false
+  xy: 2, 549
+  size: 412, 402
+  orig: 480, 480
+  offset: 43, 28
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_13
+  rotate: false
+  xy: 416, 483
+  size: 421, 410
+  orig: 480, 480
+  offset: 39, 24
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_14
+  rotate: false
+  xy: 839, 464
+  size: 428, 418
+  orig: 480, 480
+  offset: 36, 19
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_15
+  rotate: false
+  xy: 1269, 446
+  size: 437, 425
+  orig: 480, 480
+  offset: 32, 15
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_16
+  rotate: false
+  xy: 2, 50
+  size: 444, 431
+  orig: 480, 480
+  offset: 29, 11
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_17
+  rotate: false
+  xy: 902, 4
+  size: 452, 440
+  orig: 480, 480
+  offset: 25, 7
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_18
+  rotate: false
+  xy: 1356, 2
+  size: 458, 442
+  orig: 480, 480
+  offset: 22, 4
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_33
+  rotate: false
+  xy: 448, 23
+  size: 452, 439
+  orig: 480, 480
+  offset: 28, 28
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_34
+  rotate: true
+  xy: 754, 895
+  size: 376, 380
+  orig: 480, 480
+  offset: 51, 41
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_35
+  rotate: false
+  xy: 990, 1273
+  size: 354, 339
+  orig: 480, 480
+  offset: 73, 71
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_36
+  rotate: false
+  xy: 653, 1326
+  size: 335, 331
+  orig: 480, 480
+  offset: 79, 77
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_37
+  rotate: true
+  xy: 1581, 1611
+  size: 284, 311
+  orig: 480, 480
+  offset: 96, 79
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_38
+  rotate: false
+  xy: 790, 1659
+  size: 237, 236
+  orig: 480, 480
+  offset: 124, 127
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_39
+  rotate: false
+  xy: 366, 1707
+  size: 202, 188
+  orig: 480, 480
+  offset: 139, 141
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_40
+  rotate: false
+  xy: 5, 1737
+  size: 182, 158
+  orig: 480, 480
+  offset: 151, 156
+  index: -1
+
+coffinBonusCoffins5.jpg
+size: 1850,1843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeBurst/key_smokeBurst_19
+  rotate: false
+  xy: 926, 5
+  size: 460, 449
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_20
+  rotate: false
+  xy: 464, 446
+  size: 460, 451
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_21
+  rotate: false
+  xy: 926, 456
+  size: 460, 454
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_22
+  rotate: false
+  xy: 1388, 454
+  size: 460, 457
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_23
+  rotate: false
+  xy: 926, 912
+  size: 460, 460
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_24
+  rotate: false
+  xy: 1388, 913
+  size: 460, 462
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_25
+  rotate: false
+  xy: 1388, 1377
+  size: 460, 464
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_26
+  rotate: false
+  xy: 926, 1374
+  size: 460, 467
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_27
+  rotate: false
+  xy: 464, 899
+  size: 460, 469
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_28
+  rotate: false
+  xy: 464, 1370
+  size: 460, 471
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_29
+  rotate: false
+  xy: 2, 420
+  size: 460, 471
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_30
+  rotate: false
+  xy: 2, 893
+  size: 460, 472
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_31
+  rotate: false
+  xy: 2, 1367
+  size: 460, 474
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_32
+  rotate: false
+  xy: 1388, 2
+  size: 459, 450
+  orig: 480, 480
+  offset: 21, 21
+  index: -1
+
+coffinBonusCoffins.png
+size: 1998,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coffin1_lid
+  rotate: false
+  xy: 1563, 213
+  size: 259, 508
+  orig: 508, 660
+  offset: 129, 82
+  index: -1
+trans/coffin2_lid
+  rotate: false
+  xy: 1282, 195
+  size: 279, 526
+  orig: 508, 660
+  offset: 117, 70
+  index: -1
+trans/coffin3_lid
+  rotate: false
+  xy: 705, 185
+  size: 334, 536
+  orig: 508, 660
+  offset: 87, 62
+  index: -1
+trans/coffin4_lid
+  rotate: false
+  xy: 363, 182
+  size: 340, 539
+  orig: 508, 660
+  offset: 82, 60
+  index: -1
+trans/coffin5_lid
+  rotate: false
+  xy: 2, 144
+  size: 359, 577
+  orig: 508, 660
+  offset: 80, 48
+  index: -1
+trans/skelly_1
+  rotate: true
+  xy: 363, 2
+  size: 178, 451
+  orig: 508, 660
+  offset: 170, 113
+  index: -1
+trans/skelly_2
+  rotate: false
+  xy: 1824, 234
+  size: 172, 487
+  orig: 508, 660
+  offset: 173, 94
+  index: -1
+trans/skelly_3
+  rotate: true
+  xy: 1312, 5
+  size: 188, 495
+  orig: 508, 660
+  offset: 161, 83
+  index: -1
+trans/skelly_4
+  rotate: true
+  xy: 816, 2
+  size: 181, 494
+  orig: 508, 660
+  offset: 160, 89
+  index: -1
+trans/skelly_5
+  rotate: false
+  xy: 1041, 190
+  size: 239, 531
+  orig: 508, 660
+  offset: 140, 67
+  index: -1

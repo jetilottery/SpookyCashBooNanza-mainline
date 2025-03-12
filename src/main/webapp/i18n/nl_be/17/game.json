@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is van {@minRTP}% naar{@maxRTP}%",
+    "paybackTitle": "Verwachte uitbetaling",
+    "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte uitbetaling van dit spel {RTP}.",
+    "subheading": "Inzet: {ticketCost}",
+    "prizeLevel": "Prijsniveau",
+    "description": "Beschrijving",
+    "prizeValue": "Prijswaarde",
+    "overallChances": "Er is een algemene winkans van 1 op {odds} bij elk spel.",
+    "descriptionText1": "Prijs directe winst",
+    "descriptionText2": "Bonusprijs Doodskistcapriolen",
+    "descriptionText3": "Bonusprijs Orgelgeschut",
+    "prizeDivision": "Prijsverdeling",
+    "prizeRemaining": "Resterende prijzen (ongeveer)",
+    "oddsPerPlay": "Kansen per spel"
+  },
+  "title": "SPOOKY CASH",
+  "MenuCommand": {
+    "price": "Inzet",
+    "stake": "Inzet",
+    "howToPlay": "Hoe spelen?",
+    "paytable": "Legende",
+    "close": "Sluiten",
+    "audio": {
+      "sound": "Geluid",
+      "on": "Aan",
+      "off": "Uit"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fout: ",
+    "genericErrorText": "Er is een interne fout opgetreden. VERLAAT het spel en start het opnieuw op."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "INZET",
+    "ticketSelect_ticketCost": "INZET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINST",
+      "TRY": "DEMOWINST"
+    },
+    "button_buy": {
+      "BUY": "KOPEN",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "DOORGAAN",
+    "button_moveToMoney": "KOPEN",
+    "button_autoPlay": "ALLES TONEN",
+    "button_start": "KOPEN",
+    "button_stop": "STOPPEN",
+    "button_playAgain": {
+      "BUY": "KOPEN",
+      "TRY": "DEMO"
+    },
+    "button_tryAgain": "DEMO",
+    "button_ok": "OK",
+    "button_exit": "VERLATEN",
+    "button_retry": "KOPEN",
+    "error_button_exit": "VERLATEN",
+    "error_title": "FOUT",
+    "message_nonWin": "HELAAS,\nGEEN WINST",
+    "message_win": {
+      "BUY": "TOTALE WINST",
+      "TRY": "TOTALE DEMOWINST"
+    },
+    "picksLeft": "Keuzes over: {0}",
+    "bonusWin": "EXTRA WINST",
+    "howToPlay": "HOE SPELEN?",    
+    "page1": "Kies 8 grafzerken en ontdek je winstbedrag !\n\nOntdek onmiddellijk een winstbedrag, of verzamel extra symbolen  om te kunnen deelnemen\naan de extra spelen  !",
+    "page2": "Verzamel 3 {coffinSymbol}{line1complete} om kans te maken op het extra spel  « Doodskist ».\n\nKies bij iedere speelbeurt 1 doodskist om op die manier geesten te verzamelen in de spiritometer.\nVerzamel voldoende geesten in deze spiritometer om een winstbedrag op te strijken en naar de volgende speelbeurt te gaan. Je ontvangt uitsluitend het winstbedrag van de laatste volledig afgewerkte speelbeurt.\nHet extra spel eindigt wanneer er geen geesten meer kunnen worden bevrijd of wanner het maximale winstbedrag werd toegekend.",
+    "page3": "Verzamel 3 {organSymbol}{line1complete} om kans te maken op het extra spel « Orgel ».\n\nKies toetsen van het orgel : op die manier verschijnt er een winstbedrag of een vermenigvuldiger.\nOntdek de vermelding “VERZAMEL” om vervolgens je eventuele winstbedragen te innen.",
+  "winUpTo": "WIN TOT {0}!",
+    "coffinBonus": "EXTRA SPEL ‘DOODSKIST’",
+    "coffinBonusTutorial": "KIES EEN DOODSKIST OM GEESTEN TE BEVRIJDEN EN OM HEN TE VERZAMELEN IN DE SPIRITOMETER.\n\nBEREIK {icon_help_blueLine} OF {icon_help_yellowLine} OM HET VERMELDE BEDRAG OP TE STRIJKEN EN NAAR DE VOLGENDE SPEELBEURT TE GAAN.",
+    "coffinMessageStart": "KIES EEN DOODSKIST OM GEESTEN TE BEVRIJDEN !",
+    "coffinMessageCollecting": "VERZAMELDE GEESTEN !",
+    "coffinMessageContinue": " NIEUWE SPEELBEURT !",
+    "coffinMessageEnd": "EXTRA SPEL AFGEWERKT !",
+    "organBonus": "EXTRA SPEL ‘ORGEL’",
+    "organBonusTutorial": "DRUK OP EEN TOETS VAN HET ORGEL : OP DIE MANIER VERSCHIJNEN ER WINSTBEDRAGEN OF VERMENIGVULDIGERS.\n\nJE KAN SLECHTS ÉÉN TOETS PER KEER KIEZEN.\n\nHET EXTRA SPEL EINDIGT WANNEER JE DE VERMELDING “VERZAMEL” TE ZIEN KRIJGT ».",
+    "testWin": "XX,XX $",
+    "collect": "VERZAMEL"
+  }
+}

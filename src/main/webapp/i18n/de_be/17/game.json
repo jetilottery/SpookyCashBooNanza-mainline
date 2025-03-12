@@ -1,0 +1,92 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Einsatz: {ticketCost}",
+    "prizeLevel": "Preis-Stufe",
+    "description": "Beschreibung",
+    "prizeValue": "Preis-Wert",
+    "overallChances": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {odds}.",
+    "descriptionText1": "Sofortgewinn-Preis",
+    "descriptionText2": "Sarg-Eskapaden-Bonuspreis",
+    "descriptionText3": "Organisten-Spender-Bonuspreis",
+    "prizeDivision": "Preis-Aufteilung",
+    "prizeRemaining": "Ungefähr verbleibende Preise",
+    "oddsPerPlay": "Chancen pro Spiel"
+  },
+"title": "SPOOKY CASH",
+  "MenuCommand": {
+    "price": "Einsatz",
+    "stake": "Einsatz",
+    "howToPlay": "Spielanleitung",
+    "paytable": "Legende",
+    "close": "Schließen",
+    "audio": {
+      "sound": "Sound",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. BEENDEN und neu starten."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "EINSATZ",
+    "ticketSelect_ticketCost": "EINSATZ",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_continue": "WEITER",
+    "button_moveToMoney": "KAUFEN",
+    "button_autoPlay": "ALLES AUFDECKEN",
+    "button_start": "KAUFEN",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "KAUFEN",
+      "TRY": "DEMO"
+    },
+    "button_tryAgain": "DEMO",
+    "button_ok": "OK",
+    "button_exit": "BEENDEN",
+    "button_retry": "KAUFEN",
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+    "message_nonWin": "SCHADE,\nKEIN GEWINN",
+    "message_win": {
+      "BUY": "GESAMTGEWINN",
+      "TRY": "DEMO GESAMT"
+    },
+    "picksLeft": "Verbleibende Auswahlmöglichkeiten: {0}",
+    "bonusWin": "EXTRA-GEWINN",
+    "howToPlay": "SPIELANLEITUNG",   
+    "page1": "Wählen Sie 8 Grabsteine aus und entdecken Sie Ihren Gewinn!\n\nDecken Sie einen Betrag auf, um einen Sofortgewinn zu erhalten oder sammeln Sie Extra-Symbole, um zu den Extra-Spielen zu gelangen!",
+    "page2": "Sammeln Sie 3 {coffinSymbol}{line1complete} um zum Extra-Spiel „Sarg“ zu gelangen.\n\nWählen Sie in jeder Runde 1 Sarg aus, um Geister im Geisterzähler einzufangen.\nSammeln Sie genügend Geister im Geisterzähler, um einen Gewinn zu erhalten und in die nächste Runde zu gelangen. Es wird nur der Gewinn aus der letzten abgeschlossenen Runde vergeben.\nDas Extra-Spiel endet, wenn keine Geister mehr befreit werden können oder wenn der Höchstgewinn vergeben wurde.",
+    "page3": "Sammeln Sie 3 {organSymbol}{line1complete} um zum Extra-Spiel  „Orgel“ zu gelangen.\n\nWählen Sie Tasten auf der Orgel aus, um einen Gewinnbetrag oder Multiplikator aufzudecken.\nDecken Sie die Angabe „SAMMELN“ auf, um mögliche Gewinnbeträge zu erhalten.",
+	"winUpTo": "GEWINNEN SIE BIS ZU {0}!",
+    "coffinBonus": "EXTRA-SPIEL „SARG“",
+    "coffinBonusTutorial": "WÄHLEN SIE EINEN SARG, UM GEISTER ZU BEFREIEN UND IM GEISTERZÄHLER ZU SAMMELN.\n\nERREICHEN SIE {icon_help_blueLine} ODER {icon_help_yellowLine} , UM DEN ANGEZEIGTEN BETRAG ZU GEWINNEN UND IN DIE NÄCHSTE RUNDE ZU KOMMEN.",
+    "coffinMessageStart": "WÄHLEN SIE EINEN SARG, UM GEISTER ZU BEFREIEN!",
+    "coffinMessageCollecting": "GEISTER GESAMMELT!",
+    "coffinMessageContinue": " NEUE RUNDE!",
+    "coffinMessageEnd": "EXTRA-SPIEL BEENDET!",
+    "organBonus": "EXTRA-SPIEL „ORGEL“",
+    "organBonusTutorial": "DRÜCKEN SIE AUF EINE TASTE, UM GEWINNE ODER MULTIPLIKATOREN ANZUZEIGEN.\n\nES KANN JEWEILS NUR EINE TASTE AUSGEWÄHLT WERDEN.\n\nDAS EXTRA-SPIEL ENDET, WENN DIE ANGABE „SAMMELN“ ERSCHEINT.",
+    "testWin": "XX,XX $",
+    "collect": "SAMMELN"
+  }
+}

@@ -1,0 +1,188 @@
+
+coffinBonus_wheelGlow.jpg
+size: 1937,1565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/wheelGlow/wheelGlow_00
+  rotate: true
+  xy: 653, 941
+  size: 311, 326
+  orig: 400, 400
+  offset: 48, 36
+  index: -1
+nonTrans/wheelGlow/wheelGlow_02
+  rotate: true
+  xy: 966, 1254
+  size: 309, 322
+  orig: 400, 400
+  offset: 49, 38
+  index: -1
+nonTrans/wheelGlow/wheelGlow_04
+  rotate: true
+  xy: 981, 941
+  size: 311, 318
+  orig: 400, 400
+  offset: 48, 39
+  index: -1
+nonTrans/wheelGlow/wheelGlow_06
+  rotate: true
+  xy: 1301, 941
+  size: 311, 320
+  orig: 400, 400
+  offset: 48, 38
+  index: -1
+nonTrans/wheelGlow/wheelGlow_08
+  rotate: true
+  xy: 2, 1255
+  size: 308, 318
+  orig: 400, 400
+  offset: 50, 38
+  index: -1
+nonTrans/wheelGlow/wheelGlow_10
+  rotate: true
+  xy: 322, 1255
+  size: 308, 319
+  orig: 400, 400
+  offset: 49, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_12
+  rotate: true
+  xy: 1290, 1254
+  size: 309, 322
+  orig: 400, 400
+  offset: 50, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_14
+  rotate: true
+  xy: 652, 312
+  size: 313, 322
+  orig: 400, 400
+  offset: 48, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_16
+  rotate: true
+  xy: 652, 627
+  size: 312, 323
+  orig: 400, 400
+  offset: 47, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_18
+  rotate: true
+  xy: 976, 312
+  size: 313, 322
+  orig: 400, 400
+  offset: 47, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_20
+  rotate: true
+  xy: 2, 631
+  size: 311, 322
+  orig: 400, 400
+  offset: 48, 36
+  index: -1
+nonTrans/wheelGlow/wheelGlow_22
+  rotate: true
+  xy: 2, 944
+  size: 309, 325
+  orig: 400, 400
+  offset: 49, 34
+  index: -1
+nonTrans/wheelGlow/wheelGlow_24
+  rotate: true
+  xy: 326, 631
+  size: 311, 324
+  orig: 400, 400
+  offset: 49, 34
+  index: -1
+nonTrans/wheelGlow/wheelGlow_26
+  rotate: true
+  xy: 977, 627
+  size: 312, 322
+  orig: 400, 400
+  offset: 48, 36
+  index: -1
+nonTrans/wheelGlow/wheelGlow_28
+  rotate: true
+  xy: 1614, 1254
+  size: 309, 321
+  orig: 400, 400
+  offset: 49, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_30
+  rotate: true
+  xy: 643, 1255
+  size: 308, 321
+  orig: 400, 400
+  offset: 49, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_32
+  rotate: true
+  xy: 329, 944
+  size: 309, 322
+  orig: 400, 400
+  offset: 49, 34
+  index: -1
+nonTrans/wheelGlow/wheelGlow_34
+  rotate: false
+  xy: 1623, 609
+  size: 312, 321
+  orig: 400, 400
+  offset: 48, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_36
+  rotate: false
+  xy: 1623, 932
+  size: 312, 320
+  orig: 400, 400
+  offset: 48, 36
+  index: -1
+nonTrans/wheelGlow/wheelGlow_38
+  rotate: true
+  xy: 1301, 626
+  size: 313, 320
+  orig: 400, 400
+  offset: 48, 36
+  index: -1
+nonTrans/wheelGlow/wheelGlow_40
+  rotate: true
+  xy: 2, 317
+  size: 312, 321
+  orig: 400, 400
+  offset: 49, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_42
+  rotate: false
+  xy: 1616, 284
+  size: 313, 323
+  orig: 400, 400
+  offset: 48, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_44
+  rotate: true
+  xy: 2, 2
+  size: 313, 323
+  orig: 400, 400
+  offset: 48, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_46
+  rotate: false
+  xy: 1300, 302
+  size: 314, 322
+  orig: 400, 400
+  offset: 48, 37
+  index: -1
+nonTrans/wheelGlow/wheelGlow_48
+  rotate: true
+  xy: 327, 2
+  size: 313, 323
+  orig: 400, 400
+  offset: 48, 35
+  index: -1
+nonTrans/wheelGlow/wheelGlow_50
+  rotate: true
+  xy: 325, 317
+  size: 312, 325
+  orig: 400, 400
+  offset: 48, 36
+  index: -1

@@ -1,0 +1,102 @@
+
+background.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/LandscapeBG
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+nonTrans/baseGameBgP
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+background2.jpg
+size: 1281,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/stars/stars1
+  rotate: false
+  xy: 2, 188
+  size: 1270, 185
+  orig: 1440, 810
+  offset: 53, 625
+  index: -1
+nonTrans/stars/stars2
+  rotate: false
+  xy: 2, 375
+  size: 1277, 184
+  orig: 1440, 810
+  offset: 46, 626
+  index: -1
+nonTrans/stars/stars3
+  rotate: false
+  xy: 2, 2
+  size: 1271, 184
+  orig: 1440, 810
+  offset: 46, 626
+  index: -1
+
+background.png
+size: 2004,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/bat_1
+  rotate: true
+  xy: 365, 152
+  size: 99, 51
+  orig: 181, 181
+  offset: 42, 69
+  index: -1
+trans/bat_2
+  rotate: true
+  xy: 365, 93
+  size: 57, 47
+  orig: 181, 181
+  offset: 63, 69
+  index: -1
+trans/graveStone
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trans/smoke_repeat
+  rotate: false
+  xy: 2, 652
+  size: 2000, 153
+  orig: 2000, 375
+  offset: 0, 0
+  index: -1
+trans/treeLeft
+  rotate: false
+  xy: 2, 5
+  size: 361, 645
+  orig: 1440, 810
+  offset: 0, 159
+  index: -1
+trans/treeLeft_port
+  rotate: false
+  xy: 365, 253
+  size: 810, 397
+  orig: 810, 1440
+  offset: 0, 828
+  index: -1
+trans/treeRight
+  rotate: true
+  xy: 1177, 358
+  size: 292, 677
+  orig: 1440, 810
+  offset: 1148, 122
+  index: -1

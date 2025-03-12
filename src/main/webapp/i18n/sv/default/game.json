@@ -1,0 +1,93 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "är {@minRTP} %",
+    "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "description": "Beskrivning",
+    "prizeValue": "Prisvärde",
+    "overallChances": "Sannolikheten att vinna ett pris är 1 på {odds} varje gång man spelar.",
+    "descriptionText1": "Direktvinstpris",
+    "descriptionText2": "Bonuspris Kistandar",
+    "descriptionText3": "Bonuspris Orgeldonator",
+    "prizeDivision": "Prisindelning",
+    "prizeRemaining": "Ungefärligt antal återstående priser",
+    "oddsPerPlay": "Odds per spel"
+  },
+  "title": "MALL",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "FÖRSÖK "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "FÖRSÖK"
+    },
+    "button_try": "FÖRSÖK",
+    "button_continue": "FORTSÄTT",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA AUTOMATISKT",
+    "button_start": "STARTA",
+    "button_stop": "STOPPA",
+    "button_playAgain": {
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    "button_retry": "FÖRSÖK IGEN",
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+    "picksLeft": "Val kvar: {0}",
+    "bonusWin": "BONUSVINST",
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "page1": "Välj 8 av 16 gravstenar i jakten på spöklika rikedomar!\n\nHitta ett pris för att vinna direkt eller samla bonussymboler för att aktivera bonusarna!",
+    "page2": "3 insamlade {coffinSymbol}{line1complete} aktiverar bonusen Kistandar.\n\nVälj 1 av 2 kistor i varje runda för att fånga andar i andemätaren.\nSamla in tillräckligt med andar i mätaren för att vinna ett pris och gå vidare till nästa runda. Endast priset från den förra rundan som slutförts tilldelas.\nBonusen avslutas när andarna flyr utan att fylla mätaren, eller om du tilldelas toppvinsten.",
+    "page3": "3 insamlade {organSymbol}{line1complete} aktiverar bonusen Orgeldonator.\n\nVälj tangenter på orgeln för att avslöja kontantpriser eller en multiplikator.\nNär INKASSERA avslöjas avslutas bonusen.",
+    "winUpTo": "VINN UPP TILL {0}!",
+
+    "coffinBonus": "BONUSEN KISTANDAR",
+    "coffinBonusTutorial": "VÄLJ EN KISTA FÖR ATT SLÄPPA LOSS ANDAR OCH FÅNGA DEM I ANDEMÄTAREN.\n\nNÅ FRAM TILL {icon_help_blueLine} ELLER {icon_help_yellowLine} FÖR ATT VINNA PRISET OCH GÅ VIDARE TILL NÄSTA RUNDA.\n\nOM DU INTE GÖR DET ÄR BONUSEN SLUT!",
+    "coffinMessageStart": "VÄLJ EN KISTA FÖR ATT SLÄPPA LOSS ANDARNA!",
+    "coffinMessageCollecting": "SAMLAR ANDAR!",
+    "coffinMessageContinue": "NÄSTA RUNDA UPPNÅDD!",
+    "coffinMessageEnd": "BONUS AVSLUTAD, INKASSERA PRIS!",
+    "organBonus": "BONUSEN ORGELDONATOR",
+    "organBonusTutorial": "TRYCK PÅ EN AKTIV TANGENT FÖR ATT AVSLÖJA KONTANTPRISER ELLER MULTIPLIKATORER.\n\nENDAST EN TANGENT KAN VÄLJAS I TAGET.\n\nBONUSEN AVSLUTAS NÄR INKASSERA AVSLÖJAS.",
+    "testWin": "$XX.XX",
+    "collect": "INKASSERA"
+  }
+}

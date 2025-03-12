@@ -1,0 +1,34 @@
+
+coffinMeterDivs.png
+size: 459,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coffinBonusMeter_dividerBlue
+  rotate: false
+  xy: 381, 2
+  size: 24, 58
+  orig: 574, 144
+  offset: 170, 42
+  index: -1
+trans/coffinBonusMeter_dividerRed
+  rotate: false
+  xy: 407, 2
+  size: 24, 58
+  orig: 574, 144
+  offset: 170, 42
+  index: -1
+trans/coffinBonusMeter_dividerYellow
+  rotate: false
+  xy: 433, 2
+  size: 24, 58
+  orig: 574, 144
+  offset: 170, 42
+  index: -1
+trans/coffinBonusMeter_dividersAll
+  rotate: false
+  xy: 2, 2
+  size: 377, 58
+  orig: 574, 144
+  offset: 170, 42
+  index: -1

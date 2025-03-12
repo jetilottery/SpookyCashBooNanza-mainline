@@ -1,0 +1,1636 @@
+
+BonusMeterGhost.jpg
+size: 241,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/bonusStarburst
+  rotate: false
+  xy: 2, 2
+  size: 237, 232
+  orig: 243, 233
+  offset: 2, 1
+  index: -1
+
+BonusMeterGhost2.jpg
+size: 2033,1816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/burst/pipeBurst_00
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_32
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_33
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_34
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_35
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_36
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_37
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_38
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_39
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_40
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_41
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_42
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_43
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_44
+  rotate: false
+  xy: 303, 908
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/burst/pipeBurst_01
+  rotate: true
+  xy: 1521, 10
+  size: 197, 345
+  orig: 864, 864
+  offset: 323, 259
+  index: -1
+nonTrans/burst/pipeBurst_02
+  rotate: true
+  xy: 1166, 3
+  size: 204, 353
+  orig: 864, 864
+  offset: 319, 260
+  index: -1
+nonTrans/burst/pipeBurst_03
+  rotate: false
+  xy: 1466, 587
+  size: 232, 370
+  orig: 864, 864
+  offset: 314, 262
+  index: -1
+nonTrans/burst/pipeBurst_04
+  rotate: true
+  xy: 1166, 275
+  size: 237, 389
+  orig: 864, 864
+  offset: 311, 263
+  index: -1
+nonTrans/burst/pipeBurst_05
+  rotate: false
+  xy: 1700, 209
+  size: 241, 416
+  orig: 864, 864
+  offset: 309, 249
+  index: -1
+nonTrans/burst/pipeBurst_06
+  rotate: false
+  xy: 1455, 959
+  size: 244, 425
+  orig: 864, 864
+  offset: 308, 252
+  index: -1
+nonTrans/burst/pipeBurst_07
+  rotate: false
+  xy: 905, 488
+  size: 252, 434
+  orig: 864, 864
+  offset: 305, 254
+  index: -1
+nonTrans/burst/pipeBurst_08
+  rotate: false
+  xy: 898, 1376
+  size: 260, 438
+  orig: 864, 864
+  offset: 301, 257
+  index: -1
+nonTrans/burst/pipeBurst_09
+  rotate: false
+  xy: 878, 924
+  size: 266, 441
+  orig: 864, 864
+  offset: 298, 259
+  index: -1
+nonTrans/burst/pipeBurst_10
+  rotate: false
+  xy: 585, 9
+  size: 271, 444
+  orig: 864, 864
+  offset: 295, 260
+  index: -1
+nonTrans/burst/pipeBurst_11
+  rotate: false
+  xy: 307, 7
+  size: 276, 446
+  orig: 864, 864
+  offset: 292, 262
+  index: -1
+nonTrans/burst/pipeBurst_12
+  rotate: false
+  xy: 595, 918
+  size: 281, 447
+  orig: 864, 864
+  offset: 289, 263
+  index: -1
+nonTrans/burst/pipeBurst_13
+  rotate: false
+  xy: 304, 1366
+  size: 285, 448
+  orig: 864, 864
+  offset: 287, 264
+  index: -1
+nonTrans/burst/pipeBurst_14
+  rotate: false
+  xy: 303, 911
+  size: 290, 448
+  orig: 864, 864
+  offset: 284, 265
+  index: -1
+nonTrans/burst/pipeBurst_15
+  rotate: false
+  xy: 301, 455
+  size: 293, 450
+  orig: 864, 864
+  offset: 282, 266
+  index: -1
+nonTrans/burst/pipeBurst_16
+  rotate: false
+  xy: 2, 454
+  size: 297, 451
+  orig: 864, 864
+  offset: 280, 267
+  index: -1
+nonTrans/burst/pipeBurst_17
+  rotate: false
+  xy: 2, 907
+  size: 299, 452
+  orig: 864, 864
+  offset: 278, 267
+  index: -1
+nonTrans/burst/pipeBurst_18
+  rotate: false
+  xy: 2, 1361
+  size: 300, 453
+  orig: 864, 864
+  offset: 277, 267
+  index: -1
+nonTrans/burst/pipeBurst_19
+  rotate: false
+  xy: 2, 2
+  size: 303, 450
+  orig: 864, 864
+  offset: 275, 271
+  index: -1
+nonTrans/burst/pipeBurst_20
+  rotate: false
+  xy: 591, 1367
+  size: 305, 447
+  orig: 864, 864
+  offset: 274, 275
+  index: -1
+nonTrans/burst/pipeBurst_21
+  rotate: false
+  xy: 596, 474
+  size: 307, 442
+  orig: 864, 864
+  offset: 273, 280
+  index: -1
+nonTrans/burst/pipeBurst_22
+  rotate: false
+  xy: 858, 35
+  size: 306, 437
+  orig: 864, 864
+  offset: 274, 285
+  index: -1
+nonTrans/burst/pipeBurst_23
+  rotate: false
+  xy: 1146, 942
+  size: 307, 432
+  orig: 864, 864
+  offset: 273, 290
+  index: -1
+nonTrans/burst/pipeBurst_24
+  rotate: false
+  xy: 1160, 1386
+  size: 307, 428
+  orig: 864, 864
+  offset: 272, 294
+  index: -1
+nonTrans/burst/pipeBurst_25
+  rotate: false
+  xy: 1159, 514
+  size: 305, 426
+  orig: 864, 864
+  offset: 274, 298
+  index: -1
+nonTrans/burst/pipeBurst_26
+  rotate: false
+  xy: 1469, 1393
+  size: 292, 421
+  orig: 864, 864
+  offset: 284, 303
+  index: -1
+nonTrans/burst/pipeBurst_27
+  rotate: false
+  xy: 1763, 1408
+  size: 261, 406
+  orig: 864, 864
+  offset: 310, 309
+  index: -1
+nonTrans/burst/pipeBurst_28
+  rotate: true
+  xy: 1700, 627
+  size: 223, 331
+  orig: 864, 864
+  offset: 322, 326
+  index: -1
+nonTrans/burst/pipeBurst_29
+  rotate: true
+  xy: 1701, 1039
+  size: 203, 304
+  orig: 864, 864
+  offset: 336, 343
+  index: -1
+nonTrans/burst/pipeBurst_30
+  rotate: true
+  xy: 1701, 852
+  size: 185, 285
+  orig: 864, 864
+  offset: 340, 353
+  index: -1
+nonTrans/burst/pipeBurst_31
+  rotate: true
+  xy: 1763, 1244
+  size: 162, 243
+  orig: 864, 864
+  offset: 358, 383
+  index: -1
+
+BonusMeterGhost3.jpg
+size: 2045,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coinShower/meterCoinShower_0000
+  rotate: false
+  xy: 623, 1217
+  size: 302, 207
+  orig: 864, 486
+  offset: 281, 254
+  index: -1
+nonTrans/coinShower/meterCoinShower_0001
+  rotate: false
+  xy: 639, 1426
+  size: 293, 193
+  orig: 864, 486
+  offset: 282, 267
+  index: -1
+nonTrans/coinShower/meterCoinShower_0002
+  rotate: false
+  xy: 1221, 1198
+  size: 297, 208
+  orig: 864, 486
+  offset: 281, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0003
+  rotate: false
+  xy: 2, 583
+  size: 294, 223
+  orig: 864, 486
+  offset: 287, 243
+  index: -1
+nonTrans/coinShower/meterCoinShower_0004
+  rotate: false
+  xy: 293, 341
+  size: 299, 234
+  orig: 864, 486
+  offset: 285, 232
+  index: -1
+nonTrans/coinShower/meterCoinShower_0005
+  rotate: false
+  xy: 2, 91
+  size: 303, 248
+  orig: 864, 486
+  offset: 282, 216
+  index: -1
+nonTrans/coinShower/meterCoinShower_0006
+  rotate: true
+  xy: 937, 2
+  size: 300, 258
+  orig: 864, 486
+  offset: 286, 205
+  index: -1
+nonTrans/coinShower/meterCoinShower_0008
+  rotate: false
+  xy: 891, 304
+  size: 311, 240
+  orig: 864, 486
+  offset: 281, 232
+  index: -1
+nonTrans/coinShower/meterCoinShower_0009
+  rotate: false
+  xy: 307, 79
+  size: 312, 248
+  orig: 864, 486
+  offset: 281, 225
+  index: -1
+nonTrans/coinShower/meterCoinShower_0010
+  rotate: false
+  xy: 1714, 31
+  size: 307, 250
+  orig: 864, 486
+  offset: 286, 223
+  index: -1
+nonTrans/coinShower/meterCoinShower_0011
+  rotate: true
+  xy: 1827, 813
+  size: 299, 214
+  orig: 864, 486
+  offset: 294, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0012
+  rotate: false
+  xy: 2, 1234
+  size: 298, 204
+  orig: 864, 486
+  offset: 295, 263
+  index: -1
+nonTrans/coinShower/meterCoinShower_0013
+  rotate: false
+  xy: 603, 792
+  size: 302, 213
+  orig: 864, 486
+  offset: 291, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0014
+  rotate: false
+  xy: 911, 994
+  size: 305, 212
+  orig: 864, 486
+  offset: 288, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0015
+  rotate: false
+  xy: 1520, 1197
+  size: 309, 208
+  orig: 864, 486
+  offset: 284, 258
+  index: -1
+nonTrans/coinShower/meterCoinShower_0016
+  rotate: false
+  xy: 1277, 1797
+  size: 317, 178
+  orig: 864, 486
+  offset: 278, 285
+  index: -1
+nonTrans/coinShower/meterCoinShower_0017
+  rotate: false
+  xy: 1604, 1611
+  size: 321, 184
+  orig: 864, 486
+  offset: 276, 277
+  index: -1
+nonTrans/coinShower/meterCoinShower_0018
+  rotate: false
+  xy: 2, 1634
+  size: 320, 182
+  orig: 864, 486
+  offset: 278, 282
+  index: -1
+nonTrans/coinShower/meterCoinShower_0019
+  rotate: false
+  xy: 2, 1818
+  size: 315, 157
+  orig: 864, 486
+  offset: 283, 310
+  index: -1
+nonTrans/coinShower/meterCoinShower_0020
+  rotate: false
+  xy: 640, 1805
+  size: 317, 170
+  orig: 864, 486
+  offset: 283, 300
+  index: -1
+nonTrans/coinShower/meterCoinShower_0021
+  rotate: false
+  xy: 963, 1612
+  size: 319, 183
+  orig: 864, 486
+  offset: 286, 289
+  index: -1
+nonTrans/coinShower/meterCoinShower_0022
+  rotate: false
+  xy: 2, 1440
+  size: 313, 192
+  orig: 864, 486
+  offset: 289, 278
+  index: -1
+nonTrans/coinShower/meterCoinShower_0023
+  rotate: false
+  xy: 1228, 1408
+  size: 308, 202
+  orig: 864, 486
+  offset: 292, 267
+  index: -1
+nonTrans/coinShower/meterCoinShower_0024
+  rotate: false
+  xy: 301, 1022
+  size: 302, 208
+  orig: 864, 486
+  offset: 294, 258
+  index: -1
+nonTrans/coinShower/meterCoinShower_0025
+  rotate: true
+  xy: 1831, 1114
+  size: 291, 212
+  orig: 864, 486
+  offset: 300, 252
+  index: -1
+nonTrans/coinShower/meterCoinShower_0026
+  rotate: true
+  xy: 1549, 681
+  size: 281, 225
+  orig: 864, 486
+  offset: 310, 240
+  index: -1
+nonTrans/coinShower/meterCoinShower_0027
+  rotate: false
+  xy: 619, 565
+  size: 283, 225
+  orig: 864, 486
+  offset: 310, 239
+  index: -1
+nonTrans/coinShower/meterCoinShower_0028
+  rotate: false
+  xy: 318, 797
+  size: 283, 223
+  orig: 864, 486
+  offset: 310, 240
+  index: -1
+nonTrans/coinShower/meterCoinShower_0029
+  rotate: false
+  xy: 1549, 964
+  size: 276, 231
+  orig: 864, 486
+  offset: 314, 231
+  index: -1
+nonTrans/coinShower/meterCoinShower_0030
+  rotate: false
+  xy: 927, 1208
+  size: 292, 207
+  orig: 864, 486
+  offset: 299, 254
+  index: -1
+nonTrans/coinShower/meterCoinShower_0031
+  rotate: false
+  xy: 934, 1417
+  size: 292, 193
+  orig: 864, 486
+  offset: 300, 267
+  index: -1
+nonTrans/coinShower/meterCoinShower_0032
+  rotate: false
+  xy: 2, 1024
+  size: 297, 208
+  orig: 864, 486
+  offset: 299, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0033
+  rotate: false
+  xy: 904, 548
+  size: 292, 223
+  orig: 864, 486
+  offset: 305, 243
+  index: -1
+nonTrans/coinShower/meterCoinShower_0034
+  rotate: false
+  xy: 594, 329
+  size: 295, 234
+  orig: 864, 486
+  offset: 303, 232
+  index: -1
+nonTrans/coinShower/meterCoinShower_0035
+  rotate: true
+  xy: 1204, 246
+  size: 298, 248
+  orig: 864, 486
+  offset: 300, 216
+  index: -1
+nonTrans/coinShower/meterCoinShower_0036
+  rotate: true
+  xy: 1454, 90
+  size: 298, 258
+  orig: 864, 486
+  offset: 301, 205
+  index: -1
+nonTrans/coinShower/meterCoinShower_0038
+  rotate: false
+  xy: 1716, 283
+  size: 313, 240
+  orig: 864, 486
+  offset: 295, 232
+  index: -1
+nonTrans/coinShower/meterCoinShower_0039
+  rotate: false
+  xy: 621, 54
+  size: 314, 248
+  orig: 864, 486
+  offset: 294, 225
+  index: -1
+nonTrans/coinShower/meterCoinShower_0041
+  rotate: false
+  xy: 1231, 771
+  size: 316, 214
+  orig: 864, 486
+  offset: 291, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0042
+  rotate: false
+  xy: 302, 1232
+  size: 319, 204
+  orig: 864, 486
+  offset: 286, 263
+  index: -1
+nonTrans/coinShower/meterCoinShower_0043
+  rotate: false
+  xy: 298, 577
+  size: 319, 213
+  orig: 864, 486
+  offset: 284, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0044
+  rotate: false
+  xy: 2, 808
+  size: 314, 212
+  orig: 864, 486
+  offset: 283, 256
+  index: -1
+nonTrans/coinShower/meterCoinShower_0045
+  rotate: false
+  xy: 605, 1007
+  size: 304, 208
+  orig: 864, 486
+  offset: 283, 258
+  index: -1
+nonTrans/coinShower/meterCoinShower_0046
+  rotate: false
+  xy: 1596, 1797
+  size: 308, 178
+  orig: 864, 486
+  offset: 281, 285
+  index: -1
+nonTrans/coinShower/meterCoinShower_0047
+  rotate: false
+  xy: 324, 1632
+  size: 314, 184
+  orig: 864, 486
+  offset: 276, 277
+  index: -1
+nonTrans/coinShower/meterCoinShower_0048
+  rotate: false
+  xy: 640, 1621
+  size: 321, 182
+  orig: 864, 486
+  offset: 274, 282
+  index: -1
+nonTrans/coinShower/meterCoinShower_0049
+  rotate: false
+  xy: 319, 1818
+  size: 319, 157
+  orig: 864, 486
+  offset: 277, 310
+  index: -1
+nonTrans/coinShower/meterCoinShower_0050
+  rotate: false
+  xy: 959, 1805
+  size: 316, 170
+  orig: 864, 486
+  offset: 280, 300
+  index: -1
+nonTrans/coinShower/meterCoinShower_0051
+  rotate: false
+  xy: 1284, 1612
+  size: 318, 183
+  orig: 864, 486
+  offset: 278, 289
+  index: -1
+nonTrans/coinShower/meterCoinShower_0052
+  rotate: false
+  xy: 317, 1438
+  size: 320, 192
+  orig: 864, 486
+  offset: 277, 278
+  index: -1
+nonTrans/coinShower/meterCoinShower_0053
+  rotate: false
+  xy: 1538, 1407
+  size: 323, 202
+  orig: 864, 486
+  offset: 276, 267
+  index: -1
+nonTrans/coinShower/meterCoinShower_0054
+  rotate: false
+  xy: 1218, 987
+  size: 329, 208
+  orig: 864, 486
+  offset: 276, 258
+  index: -1
+nonTrans/coinShower/meterCoinShower_0055
+  rotate: false
+  xy: 907, 773
+  size: 322, 212
+  orig: 864, 486
+  offset: 282, 252
+  index: -1
+nonTrans/coinShower/meterCoinShower_0056
+  rotate: true
+  xy: 1489, 390
+  size: 289, 225
+  orig: 864, 486
+  offset: 314, 240
+  index: -1
+nonTrans/coinShower/meterCoinShower_0057
+  rotate: false
+  xy: 2, 356
+  size: 289, 225
+  orig: 864, 486
+  offset: 315, 239
+  index: -1
+nonTrans/coinShower/meterCoinShower_0058
+  rotate: false
+  xy: 1198, 546
+  size: 289, 223
+  orig: 864, 486
+  offset: 312, 240
+  index: -1
+nonTrans/coinShower/meterCoinShower_0059
+  rotate: true
+  xy: 1776, 525
+  size: 286, 231
+  orig: 864, 486
+  offset: 311, 231
+  index: -1
+
+BonusMeterGhost4.jpg
+size: 928,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coinShower/meterCoinShower_0007
+  rotate: false
+  xy: 309, 2
+  size: 301, 267
+  orig: 864, 486
+  offset: 287, 203
+  index: -1
+nonTrans/coinShower/meterCoinShower_0037
+  rotate: false
+  xy: 2, 2
+  size: 305, 267
+  orig: 864, 486
+  offset: 296, 203
+  index: -1
+nonTrans/coinShower/meterCoinShower_0040
+  rotate: false
+  xy: 612, 19
+  size: 314, 250
+  orig: 864, 486
+  offset: 293, 223
+  index: -1
+
+BonusMeterGhost.png
+size: 119,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/redGlow
+  rotate: false
+  xy: 2, 2
+  size: 115, 115
+  orig: 123, 123
+  offset: 4, 4
+  index: -1
+
+BonusMeterGhost2.png
+size: 1821,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coinBurst/coinBurst_0014
+  rotate: false
+  xy: 1665, 92
+  size: 110, 99
+  orig: 400, 400
+  offset: 131, 153
+  index: -1
+trans/coinBurst/coinBurst_0015
+  rotate: true
+  xy: 1665, 193
+  size: 165, 122
+  orig: 400, 400
+  offset: 103, 151
+  index: -1
+trans/coinBurst/coinBurst_0016
+  rotate: true
+  xy: 1665, 613
+  size: 214, 154
+  orig: 400, 400
+  offset: 83, 147
+  index: -1
+trans/coinBurst/coinBurst_0017
+  rotate: true
+  xy: 1423, 293
+  size: 253, 164
+  orig: 400, 400
+  offset: 65, 159
+  index: -1
+trans/coinBurst/coinBurst_0018
+  rotate: false
+  xy: 301, 18
+  size: 292, 183
+  orig: 400, 400
+  offset: 48, 157
+  index: -1
+trans/coinBurst/coinBurst_0019
+  rotate: false
+  xy: 2, 3
+  size: 297, 195
+  orig: 400, 400
+  offset: 47, 160
+  index: -1
+trans/coinBurst/coinBurst_0020
+  rotate: true
+  xy: 225, 524
+  size: 303, 204
+  orig: 400, 400
+  offset: 47, 163
+  index: -1
+trans/coinBurst/coinBurst_0021
+  rotate: true
+  xy: 221, 203
+  size: 308, 210
+  orig: 400, 400
+  offset: 45, 165
+  index: -1
+trans/coinBurst/coinBurst_0022
+  rotate: true
+  xy: 2, 200
+  size: 311, 217
+  orig: 400, 400
+  offset: 44, 165
+  index: -1
+trans/coinBurst/coinBurst_0023
+  rotate: true
+  xy: 2, 513
+  size: 314, 221
+  orig: 400, 400
+  offset: 43, 165
+  index: -1
+trans/coinBurst/coinBurst_0024
+  rotate: true
+  xy: 1199, 548
+  size: 279, 228
+  orig: 400, 400
+  offset: 79, 162
+  index: -1
+trans/coinBurst/coinBurst_0025
+  rotate: true
+  xy: 696, 265
+  size: 280, 232
+  orig: 400, 400
+  offset: 79, 160
+  index: -1
+trans/coinBurst/coinBurst_0026
+  rotate: true
+  xy: 1182, 267
+  size: 279, 239
+  orig: 400, 400
+  offset: 81, 156
+  index: -1
+trans/coinBurst/coinBurst_0027
+  rotate: true
+  xy: 952, 548
+  size: 279, 245
+  orig: 400, 400
+  offset: 82, 152
+  index: -1
+trans/coinBurst/coinBurst_0028
+  rotate: true
+  xy: 930, 266
+  size: 279, 250
+  orig: 400, 400
+  offset: 83, 147
+  index: -1
+trans/coinBurst/coinBurst_0029
+  rotate: true
+  xy: 695, 547
+  size: 280, 255
+  orig: 400, 400
+  offset: 83, 141
+  index: -1
+trans/coinBurst/coinBurst_0030
+  rotate: false
+  xy: 595, 2
+  size: 281, 258
+  orig: 400, 400
+  offset: 83, 135
+  index: -1
+trans/coinBurst/coinBurst_0031
+  rotate: true
+  xy: 433, 262
+  size: 281, 261
+  orig: 400, 400
+  offset: 84, 128
+  index: -1
+trans/coinBurst/coinBurst_0032
+  rotate: true
+  xy: 431, 545
+  size: 282, 262
+  orig: 400, 400
+  offset: 85, 121
+  index: -1
+trans/coinBurst/coinBurst_0033
+  rotate: false
+  xy: 878, 9
+  size: 263, 254
+  orig: 400, 400
+  offset: 105, 122
+  index: -1
+trans/coinBurst/coinBurst_0034
+  rotate: true
+  xy: 1410, 2
+  size: 263, 253
+  orig: 400, 400
+  offset: 106, 114
+  index: -1
+trans/coinBurst/coinBurst_0035
+  rotate: false
+  xy: 1143, 11
+  size: 265, 253
+  orig: 400, 400
+  offset: 106, 104
+  index: -1
+trans/coinBurst/coinBurst_0036
+  rotate: false
+  xy: 1665, 360
+  size: 147, 251
+  orig: 400, 400
+  offset: 107, 95
+  index: -1
+trans/coinBurst/coinBurst_0037
+  rotate: true
+  xy: 1429, 692
+  size: 135, 225
+  orig: 400, 400
+  offset: 108, 109
+  index: -1
+trans/coinBurst/coinBurst_0038
+  rotate: true
+  xy: 1429, 556
+  size: 134, 224
+  orig: 400, 400
+  offset: 108, 97
+  index: -1
+
+BonusMeterGhost3.png
+size: 1699,1323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coinShowerMask/meterCoinShower_mask0000
+  rotate: true
+  xy: 2, 604
+  size: 237, 167
+  orig: 720, 405
+  offset: 249, 212
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0001
+  rotate: true
+  xy: 1239, 232
+  size: 211, 137
+  orig: 720, 405
+  offset: 250, 241
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0002
+  rotate: false
+  xy: 463, 7
+  size: 211, 149
+  orig: 720, 405
+  offset: 251, 232
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0003
+  rotate: true
+  xy: 1337, 459
+  size: 212, 161
+  orig: 720, 405
+  offset: 252, 221
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0004
+  rotate: true
+  xy: 1356, 894
+  size: 212, 172
+  orig: 720, 405
+  offset: 253, 210
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0005
+  rotate: true
+  xy: 1318, 1108
+  size: 213, 182
+  orig: 720, 405
+  offset: 253, 199
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0006
+  rotate: true
+  xy: 1134, 660
+  size: 215, 191
+  orig: 720, 405
+  offset: 253, 189
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0007
+  rotate: false
+  xy: 887, 2
+  size: 215, 202
+  orig: 720, 405
+  offset: 254, 183
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0008
+  rotate: true
+  xy: 1141, 1102
+  size: 219, 175
+  orig: 720, 405
+  offset: 251, 211
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0009
+  rotate: true
+  xy: 796, 871
+  size: 223, 184
+  orig: 720, 405
+  offset: 249, 202
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0010
+  rotate: true
+  xy: 602, 867
+  size: 225, 192
+  orig: 720, 405
+  offset: 248, 193
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0011
+  rotate: true
+  xy: 149, 374
+  size: 228, 169
+  orig: 720, 405
+  offset: 247, 215
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0012
+  rotate: true
+  xy: 999, 430
+  size: 217, 155
+  orig: 720, 405
+  offset: 259, 228
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0013
+  rotate: true
+  xy: 973, 649
+  size: 220, 159
+  orig: 720, 405
+  offset: 257, 226
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0014
+  rotate: true
+  xy: 979, 1098
+  size: 223, 160
+  orig: 720, 405
+  offset: 255, 224
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0015
+  rotate: true
+  xy: 809, 1098
+  size: 223, 168
+  orig: 720, 405
+  offset: 253, 215
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0016
+  rotate: true
+  xy: 601, 175
+  size: 225, 130
+  orig: 720, 405
+  offset: 251, 251
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0017
+  rotate: true
+  xy: 514, 402
+  size: 226, 136
+  orig: 720, 405
+  offset: 251, 243
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0018
+  rotate: true
+  xy: 475, 1094
+  size: 227, 146
+  orig: 720, 405
+  offset: 251, 235
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0019
+  rotate: true
+  xy: 295, 615
+  size: 228, 114
+  orig: 720, 405
+  offset: 251, 270
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0020
+  rotate: true
+  xy: 171, 615
+  size: 228, 122
+  orig: 720, 405
+  offset: 251, 263
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0021
+  rotate: false
+  xy: 233, 5
+  size: 228, 130
+  orig: 720, 405
+  offset: 252, 255
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0022
+  rotate: true
+  xy: 313, 144
+  size: 228, 138
+  orig: 720, 405
+  offset: 252, 247
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0023
+  rotate: true
+  xy: 411, 630
+  size: 227, 145
+  orig: 720, 405
+  offset: 253, 239
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0024
+  rotate: true
+  xy: 324, 859
+  size: 227, 152
+  orig: 720, 405
+  offset: 253, 231
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0025
+  rotate: true
+  xy: 812, 647
+  size: 222, 159
+  orig: 720, 405
+  offset: 258, 222
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0026
+  rotate: true
+  xy: 1104, 4
+  size: 206, 169
+  orig: 720, 405
+  offset: 267, 211
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0027
+  rotate: true
+  xy: 1327, 673
+  size: 212, 180
+  orig: 720, 405
+  offset: 265, 199
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0028
+  rotate: true
+  xy: 1069, 212
+  size: 216, 168
+  orig: 720, 405
+  offset: 264, 213
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0029
+  rotate: true
+  xy: 982, 877
+  size: 219, 179
+  orig: 720, 405
+  offset: 263, 201
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0030
+  rotate: true
+  xy: 1530, 898
+  size: 209, 167
+  orig: 720, 405
+  offset: 264, 212
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0031
+  rotate: true
+  xy: 1541, 48
+  size: 209, 137
+  orig: 720, 405
+  offset: 265, 241
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0032
+  rotate: true
+  xy: 1541, 259
+  size: 209, 149
+  orig: 720, 405
+  offset: 266, 232
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0033
+  rotate: true
+  xy: 1378, 247
+  size: 210, 161
+  orig: 720, 405
+  offset: 267, 221
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0034
+  rotate: true
+  xy: 1275, 20
+  size: 210, 172
+  orig: 720, 405
+  offset: 268, 210
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0035
+  rotate: true
+  xy: 1509, 681
+  size: 211, 182
+  orig: 720, 405
+  offset: 268, 199
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0036
+  rotate: true
+  xy: 1163, 887
+  size: 213, 191
+  orig: 720, 405
+  offset: 268, 189
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0037
+  rotate: true
+  xy: 865, 206
+  size: 217, 202
+  orig: 720, 405
+  offset: 265, 183
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0038
+  rotate: true
+  xy: 652, 411
+  size: 224, 175
+  orig: 720, 405
+  offset: 259, 211
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0039
+  rotate: true
+  xy: 623, 1096
+  size: 225, 184
+  orig: 720, 405
+  offset: 259, 202
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0040
+  rotate: true
+  xy: 320, 386
+  size: 227, 192
+  orig: 720, 405
+  offset: 258, 193
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0041
+  rotate: true
+  xy: 142, 137
+  size: 230, 169
+  orig: 720, 405
+  offset: 256, 215
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0042
+  rotate: true
+  xy: 318, 1088
+  size: 233, 155
+  orig: 720, 405
+  offset: 255, 228
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0043
+  rotate: true
+  xy: 163, 845
+  size: 236, 159
+  orig: 720, 405
+  offset: 253, 226
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0044
+  rotate: true
+  xy: 2, 1083
+  size: 238, 160
+  orig: 720, 405
+  offset: 252, 224
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0045
+  rotate: true
+  xy: 829, 425
+  size: 220, 168
+  orig: 720, 405
+  offset: 251, 215
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0046
+  rotate: true
+  xy: 733, 187
+  size: 222, 130
+  orig: 720, 405
+  offset: 250, 251
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0047
+  rotate: true
+  xy: 674, 641
+  size: 224, 136
+  orig: 720, 405
+  offset: 249, 243
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0048
+  rotate: true
+  xy: 453, 158
+  size: 226, 146
+  orig: 720, 405
+  offset: 248, 235
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0049
+  rotate: true
+  xy: 558, 637
+  size: 226, 114
+  orig: 720, 405
+  offset: 249, 270
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0050
+  rotate: true
+  xy: 478, 865
+  size: 227, 122
+  orig: 720, 405
+  offset: 249, 263
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0051
+  rotate: false
+  xy: 2, 4
+  size: 229, 130
+  orig: 720, 405
+  offset: 248, 255
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0052
+  rotate: true
+  xy: 2, 136
+  size: 231, 138
+  orig: 720, 405
+  offset: 247, 247
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0053
+  rotate: true
+  xy: 2, 369
+  size: 233, 145
+  orig: 720, 405
+  offset: 246, 239
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0054
+  rotate: true
+  xy: 164, 1085
+  size: 236, 152
+  orig: 720, 405
+  offset: 244, 231
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0055
+  rotate: true
+  xy: 2, 843
+  size: 238, 159
+  orig: 720, 405
+  offset: 243, 222
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0056
+  rotate: false
+  xy: 676, 4
+  size: 209, 169
+  orig: 720, 405
+  offset: 273, 211
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0057
+  rotate: true
+  xy: 1509, 470
+  size: 209, 180
+  orig: 720, 405
+  offset: 274, 199
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0058
+  rotate: true
+  xy: 1502, 1109
+  size: 212, 168
+  orig: 720, 405
+  offset: 272, 213
+  index: -1
+trans/coinShowerMask/meterCoinShower_mask0059
+  rotate: true
+  xy: 1156, 445
+  size: 213, 179
+  orig: 720, 405
+  offset: 272, 201
+  index: -1
+
+BonusMeterGhost4.png
+size: 115,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/ghost/ghost_0000_ghostArm_L
+  rotate: true
+  xy: 53, 160
+  size: 50, 52
+  orig: 56, 63
+  offset: 1, 3
+  index: -1
+trans/ghost/ghost_0001_ghostArm_R
+  rotate: false
+  xy: 2, 162
+  size: 49, 48
+  orig: 52, 55
+  offset: 3, 1
+  index: -1
+trans/ghost/ghost_0002_ghostBody
+  rotate: true
+  xy: 2, 81
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+trans/ghost/ghost_0002_ghostBodyDead
+  rotate: true
+  xy: 2, 2
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+
+BonusMeterGhost5.png
+size: 1844,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/wheelTrail/wheelTrail_00
+  rotate: false
+  xy: 1354, 104
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trans/wheelTrail/wheelTrail_01
+  rotate: false
+  xy: 1486, 456
+  size: 41, 53
+  orig: 1440, 810
+  offset: 436, 682
+  index: -1
+trans/wheelTrail/wheelTrail_02
+  rotate: true
+  xy: 1727, 34
+  size: 137, 87
+  orig: 1440, 810
+  offset: 424, 666
+  index: -1
+trans/wheelTrail/wheelTrail_03
+  rotate: false
+  xy: 1174, 107
+  size: 181, 119
+  orig: 1440, 810
+  offset: 410, 649
+  index: -1
+trans/wheelTrail/wheelTrail_04
+  rotate: false
+  xy: 1486, 93
+  size: 239, 145
+  orig: 1440, 810
+  offset: 401, 636
+  index: -1
+trans/wheelTrail/wheelTrail_05
+  rotate: false
+  xy: 282, 35
+  size: 268, 156
+  orig: 1440, 810
+  offset: 397, 631
+  index: -1
+trans/wheelTrail/wheelTrail_06
+  rotate: false
+  xy: 643, 155
+  size: 287, 197
+  orig: 1440, 810
+  offset: 401, 593
+  index: -1
+trans/wheelTrail/wheelTrail_07
+  rotate: false
+  xy: 662, 354
+  size: 288, 247
+  orig: 1440, 810
+  offset: 409, 544
+  index: -1
+trans/wheelTrail/wheelTrail_08
+  rotate: false
+  xy: 605, 603
+  size: 280, 299
+  orig: 1440, 810
+  offset: 423, 496
+  index: -1
+trans/wheelTrail/wheelTrail_09
+  rotate: true
+  xy: 2, 7
+  size: 267, 278
+  orig: 1440, 810
+  offset: 438, 521
+  index: -1
+trans/wheelTrail/wheelTrail_10
+  rotate: true
+  xy: 1199, 228
+  size: 281, 285
+  orig: 1440, 810
+  offset: 430, 506
+  index: -1
+trans/wheelTrail/wheelTrail_11
+  rotate: true
+  xy: 1546, 614
+  size: 288, 289
+  orig: 1440, 810
+  offset: 429, 489
+  index: -1
+trans/wheelTrail/wheelTrail_12
+  rotate: false
+  xy: 304, 603
+  size: 299, 299
+  orig: 1440, 810
+  offset: 428, 471
+  index: -1
+trans/wheelTrail/wheelTrail_13
+  rotate: false
+  xy: 2, 590
+  size: 300, 312
+  orig: 1440, 810
+  offset: 435, 454
+  index: -1
+trans/wheelTrail/wheelTrail_14
+  rotate: false
+  xy: 2, 276
+  size: 294, 312
+  orig: 1440, 810
+  offset: 445, 447
+  index: -1
+trans/wheelTrail/wheelTrail_15
+  rotate: true
+  xy: 887, 639
+  size: 263, 316
+  orig: 1440, 810
+  offset: 476, 437
+  index: -1
+trans/wheelTrail/wheelTrail_16
+  rotate: true
+  xy: 1205, 673
+  size: 229, 339
+  orig: 1440, 810
+  offset: 510, 416
+  index: -1
+trans/wheelTrail/wheelTrail_17
+  rotate: true
+  xy: 304, 390
+  size: 211, 356
+  orig: 1440, 810
+  offset: 537, 401
+  index: -1
+trans/wheelTrail/wheelTrail_18
+  rotate: true
+  xy: 298, 193
+  size: 195, 343
+  orig: 1440, 810
+  offset: 559, 393
+  index: -1
+trans/wheelTrail/wheelTrail_19
+  rotate: true
+  xy: 1205, 511
+  size: 160, 337
+  orig: 1440, 810
+  offset: 596, 392
+  index: -1
+trans/wheelTrail/wheelTrail_20
+  rotate: true
+  xy: 1544, 441
+  size: 171, 292
+  orig: 1440, 810
+  offset: 582, 401
+  index: -1
+trans/wheelTrail/wheelTrail_21
+  rotate: true
+  xy: 552, 17
+  size: 136, 285
+  orig: 1440, 810
+  offset: 610, 408
+  index: -1
+trans/wheelTrail/wheelTrail_22
+  rotate: false
+  xy: 1727, 173
+  size: 115, 266
+  orig: 1440, 810
+  offset: 626, 416
+  index: -1
+trans/wheelTrail/wheelTrail_23
+  rotate: true
+  xy: 952, 229
+  size: 154, 244
+  orig: 1440, 810
+  offset: 582, 424
+  index: -1
+trans/wheelTrail/wheelTrail_24
+  rotate: false
+  xy: 938, 33
+  size: 234, 194
+  orig: 1440, 810
+  offset: 503, 430
+  index: -1
+trans/wheelTrail/wheelTrail_25
+  rotate: false
+  xy: 1357, 90
+  size: 115, 136
+  orig: 1440, 810
+  offset: 624, 429
+  index: -1
+trans/wheelTrail/wheelTrail_26
+  rotate: true
+  xy: 1486, 240
+  size: 199, 239
+  orig: 1440, 810
+  offset: 541, 425
+  index: -1
+trans/wheelTrail/wheelTrail_27
+  rotate: false
+  xy: 952, 385
+  size: 245, 252
+  orig: 1440, 810
+  offset: 494, 422
+  index: -1
+trans/wheelTrail/wheelTrail_28
+  rotate: false
+  xy: 839, 2
+  size: 97, 151
+  orig: 1440, 810
+  offset: 643, 421
+  index: -1
+trans/wheelTrail/wheelTrail_29
+  rotate: true
+  xy: 1174, 4
+  size: 101, 178
+  orig: 1440, 810
+  offset: 639, 416
+  index: -1

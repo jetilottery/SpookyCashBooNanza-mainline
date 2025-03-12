@@ -1,0 +1,93 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "è pari al {@minRTP}%",
+    "RTPrange": "è compreso tra il {@minRTP}% e il {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Per questo gioco, il ritorno teorico previsto sul lungo termine è pari a {RTP}.",
+    "subheading": "Prezzo del biglietto: {ticketCost}",
+    "prizeLevel": "Livello del Premio",
+    "description": "Descrizione",
+    "prizeValue": "Valore del Premio",
+    "overallChances": "Vi è 1 possibilità su {odds} di vincere un premio in ogni partita.",
+    "descriptionText1": "Premio vincita immediata",
+    "descriptionText2": "Premio Bonus Spiriti delle Bare",
+    "descriptionText3": "Premio Bonus Donatore di Organi",
+    "prizeDivision": "Divisione dei premi",
+    "prizeRemaining": "Premi approssimativi rimanenti",
+    "oddsPerPlay": "Probabilità per partita"
+  },
+  "title": "MODELLO",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO DEL BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO DEL BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "SCOPERTA AUTOMATICA",
+    "button_start": "INIZIA",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+    "button_retry": "RIPROVA",
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_win": {
+      "BUY": "VINCITA TOTALE",
+      "TRY": "VINCITA DEMO TOTALE"
+    },
+    "picksLeft": "Selezioni rimanenti: {0}",
+    "bonusWin": "VINCITA BONUS",
+    "howToPlay": "COME GIOCARE",
+    "page1": "Seleziona 8 delle 16 lapidi per scovare ricchezze spettrali!\n\nTrova un premio per ottenere una vincita immediata o raccogli i simboli Bonus per attivare i Bonus!",
+    "page2": "3 {coffinSymbol}{line1complete}raccolti attivano il Bonus Spiriti delle Bare.\n\nSeleziona 1 delle 2 bare in ogni round per intrappolare gli spiriti nel contatore degli spiriti.\nRaccogli un numero sufficiente di spiriti nel contatore per vincere un premio e avanzare al round successivo. Viene assegnato solo il premio dell'ultimo round completato.\nIl bonus termina quando gli spiriti fuggono senza riempire il contatore o quando viene assegnato il premio massimo.",
+    "page3": "3 {organSymbol}{line1complete}raccolti attivano il Bonus Donatore di Organi.\n\nSeleziona i tasti dell'organo per rivelare un premio in denaro o un moltiplicatore.\nRivela l'opzione RISCUOTI per terminare il Bonus.",
+    "winUpTo": "VINCI FINO A {0}!",
+
+    "coffinBonus": "BONUS SPIRITI DELLE BARE",
+    "coffinBonusTutorial": "SELEZIONA UNA BARA PER LIBERARE GLI SPIRITI E INTRAPPOLARLI NEL CONTATORE DEGLI SPIRITI.\n\nRAGGIUNGI {icon_help_blueLine} O {icon_help_yellowLine} PER VINCERE IL PREMIO E AVANZARE AL ROUND SUCCESSIVO.\n\nNON FARLO E QUESTO BONUS VERRÀ SEPPELLITO!",
+    "coffinMessageStart": "SELEZIONA UNA BARA PER LIBERARE GLI SPIRITI!",
+    "coffinMessageCollecting": "RACCOLTA DEGLI SPIRITI!",
+    "coffinMessageContinue": "PROSSIMO ROUND RAGGIUNTO!",
+    "coffinMessageEnd": "BONUS TERMINATO, RISCUOTI IL PREMIO!",
+    "organBonus": "BONUS DONATORE DI ORGANI",
+    "organBonusTutorial": "PREMI UN TASTO ATTIVO PER RIVELARE PREMI IN DENARO O MOLTIPLICATORI.\n\nÈ POSSIBILE PREMERE UN TASTO ALLA VOLTA\n\nIL BONUS TERMINA QUANDO VIENE RIVELATA L'OPZIONE RISCUOTI.",
+    "testWin": "$XX.XX",
+    "collect": "RISCUOTI"
+  }
+}

@@ -1,0 +1,69 @@
+{"frames": {
+
+"landscape_tutorialBackground":
+{
+	"frame": {"x":817,"y":673,"w":1248,"h":647},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1248,"h":647},
+	"sourceSize": {"w":1248,"h":647}
+},
+"landscape_tutorialFillBackgroundFill":
+{
+	"frame": {"x":817,"y":3,"w":1217,"h":666},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1217,"h":666},
+	"sourceSize": {"w":1217,"h":666}
+},
+"portrait_EndOfGameMessageOverlay":
+{
+	"frame": {"x":3,"y":3,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"portrait_timeOutMessageBackground":
+{
+	"frame": {"x":1468,"y":673,"w":786,"h":408},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":786,"h":408},
+	"sourceSize": {"w":786,"h":408}
+},
+"portrait_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":3,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"portrait_tutorialOverlay":
+{
+	"frame": {"x":3,"y":3,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"winPlaque":
+{
+	"frame": {"x":3,"y":1447,"w":809,"h":582},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":809,"h":582},
+	"sourceSize": {"w":809,"h":582}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2037,"h":2032},
+	"scale": "1",
+	"related_multi_packs": [ "plaques-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1d656b7699a99a272d6063daa102ca81:ac9fbe5331b4c5779ec1af5e2de330be:13c01ba50546873ca82c7810a9ccab05$"
+}
+}

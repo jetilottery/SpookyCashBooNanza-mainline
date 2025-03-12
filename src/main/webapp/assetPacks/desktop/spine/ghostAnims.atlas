@@ -1,0 +1,326 @@
+
+ghostAnims.jpg
+size: 1938,1897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeBurst/key_smokeBurst_00
+  rotate: false
+  xy: 2, 1894
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_01
+  rotate: true
+  xy: 189, 1721
+  size: 174, 175
+  orig: 480, 480
+  offset: 152, 152
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_02
+  rotate: false
+  xy: 570, 1683
+  size: 218, 212
+  orig: 480, 480
+  offset: 131, 129
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_03
+  rotate: false
+  xy: 1029, 1646
+  size: 258, 249
+  orig: 480, 480
+  offset: 113, 108
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_04
+  rotate: false
+  xy: 1289, 1614
+  size: 290, 281
+  orig: 480, 480
+  offset: 98, 91
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_05
+  rotate: false
+  xy: 2, 1417
+  size: 314, 302
+  orig: 480, 480
+  offset: 87, 80
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_06
+  rotate: false
+  xy: 318, 1359
+  size: 333, 322
+  orig: 480, 480
+  offset: 79, 69
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_07
+  rotate: false
+  xy: 1346, 1269
+  size: 351, 340
+  orig: 480, 480
+  offset: 70, 60
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_08
+  rotate: false
+  xy: 2, 1001
+  size: 367, 356
+  orig: 480, 480
+  offset: 63, 52
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_09
+  rotate: false
+  xy: 371, 953
+  size: 381, 371
+  orig: 480, 480
+  offset: 57, 44
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_10
+  rotate: false
+  xy: 1136, 884
+  size: 394, 383
+  orig: 480, 480
+  offset: 51, 38
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_11
+  rotate: false
+  xy: 1532, 873
+  size: 404, 394
+  orig: 480, 480
+  offset: 47, 32
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_12
+  rotate: false
+  xy: 2, 549
+  size: 412, 402
+  orig: 480, 480
+  offset: 43, 28
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_13
+  rotate: false
+  xy: 416, 483
+  size: 421, 410
+  orig: 480, 480
+  offset: 39, 24
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_14
+  rotate: false
+  xy: 839, 464
+  size: 428, 418
+  orig: 480, 480
+  offset: 36, 19
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_15
+  rotate: false
+  xy: 1269, 446
+  size: 437, 425
+  orig: 480, 480
+  offset: 32, 15
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_16
+  rotate: false
+  xy: 2, 50
+  size: 444, 431
+  orig: 480, 480
+  offset: 29, 11
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_17
+  rotate: false
+  xy: 902, 4
+  size: 452, 440
+  orig: 480, 480
+  offset: 25, 7
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_18
+  rotate: false
+  xy: 1356, 2
+  size: 458, 442
+  orig: 480, 480
+  offset: 22, 4
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_33
+  rotate: false
+  xy: 448, 23
+  size: 452, 439
+  orig: 480, 480
+  offset: 28, 28
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_34
+  rotate: true
+  xy: 754, 895
+  size: 376, 380
+  orig: 480, 480
+  offset: 51, 41
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_35
+  rotate: false
+  xy: 990, 1273
+  size: 354, 339
+  orig: 480, 480
+  offset: 73, 71
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_36
+  rotate: false
+  xy: 653, 1326
+  size: 335, 331
+  orig: 480, 480
+  offset: 79, 77
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_37
+  rotate: true
+  xy: 1581, 1611
+  size: 284, 311
+  orig: 480, 480
+  offset: 96, 79
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_38
+  rotate: false
+  xy: 790, 1659
+  size: 237, 236
+  orig: 480, 480
+  offset: 124, 127
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_39
+  rotate: false
+  xy: 366, 1707
+  size: 202, 188
+  orig: 480, 480
+  offset: 139, 141
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_40
+  rotate: false
+  xy: 5, 1737
+  size: 182, 158
+  orig: 480, 480
+  offset: 151, 156
+  index: -1
+
+ghostAnims2.jpg
+size: 1850,1843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeBurst/key_smokeBurst_19
+  rotate: false
+  xy: 926, 5
+  size: 460, 449
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_20
+  rotate: false
+  xy: 464, 446
+  size: 460, 451
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_21
+  rotate: false
+  xy: 926, 456
+  size: 460, 454
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_22
+  rotate: false
+  xy: 1388, 454
+  size: 460, 457
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_23
+  rotate: false
+  xy: 926, 912
+  size: 460, 460
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_24
+  rotate: false
+  xy: 1388, 913
+  size: 460, 462
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_25
+  rotate: false
+  xy: 1388, 1377
+  size: 460, 464
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_26
+  rotate: false
+  xy: 926, 1374
+  size: 460, 467
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_27
+  rotate: false
+  xy: 464, 899
+  size: 460, 469
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_28
+  rotate: false
+  xy: 464, 1370
+  size: 460, 471
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_29
+  rotate: false
+  xy: 2, 420
+  size: 460, 471
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_30
+  rotate: false
+  xy: 2, 893
+  size: 460, 472
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_31
+  rotate: false
+  xy: 2, 1367
+  size: 460, 474
+  orig: 480, 480
+  offset: 20, 0
+  index: -1
+nonTrans/smokeBurst/key_smokeBurst_32
+  rotate: false
+  xy: 1388, 2
+  size: 459, 450
+  orig: 480, 480
+  offset: 21, 21
+  index: -1
+
+ghostAnims.png
+size: 803,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/ghost
+  rotate: true
+  xy: 2, 2
+  size: 187, 578
+  orig: 400, 650
+  offset: 100, 42
+  index: -1
+trans/ghost_arm_L
+  rotate: true
+  xy: 697, 54
+  size: 135, 104
+  orig: 400, 650
+  offset: 40, 363
+  index: -1
+trans/ghost_arm_R
+  rotate: true
+  xy: 582, 45
+  size: 144, 113
+  orig: 400, 650
+  offset: 219, 379
+  index: -1

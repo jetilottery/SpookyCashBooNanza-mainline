@@ -1,0 +1,68 @@
+
+BigWin.jpg
+size: 1707,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/BurstRay
+  rotate: false
+  xy: 652, 10
+  size: 834, 624
+  orig: 834, 624
+  offset: 0, 0
+  index: -1
+nonTrans/totalWinCircleL
+  rotate: false
+  xy: 652, 636
+  size: 1053, 518
+  orig: 1152, 648
+  offset: 30, 130
+  index: -1
+nonTrans/totalWinGradient
+  rotate: true
+  xy: 2, 2
+  size: 1152, 648
+  orig: 1152, 648
+  offset: 0, 0
+  index: -1
+
+BigWin2.jpg
+size: 1981,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/lightning/lightning_0000
+  rotate: true
+  xy: 1203, 56
+  size: 600, 405
+  orig: 720, 405
+  offset: 39, 0
+  index: -1
+nonTrans/lightning/lightning_0001
+  rotate: true
+  xy: 409, 32
+  size: 624, 405
+  orig: 720, 405
+  offset: 39, 0
+  index: -1
+nonTrans/lightning/lightning_0010
+  rotate: true
+  xy: 816, 2
+  size: 654, 385
+  orig: 720, 405
+  offset: 25, 8
+  index: -1
+nonTrans/lightning/lightning_0011
+  rotate: true
+  xy: 1610, 2
+  size: 654, 369
+  orig: 720, 405
+  offset: 5, 12
+  index: -1
+nonTrans/lightning/lightning_0012
+  rotate: true
+  xy: 2, 19
+  size: 637, 405
+  orig: 720, 405
+  offset: 19, 0
+  index: -1

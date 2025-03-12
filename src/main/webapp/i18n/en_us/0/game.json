@@ -1,0 +1,93 @@
+{
+  "version": "000",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%0is {@minRTP}%0is {@minRTP}%0",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%0is from {@minRTP}% to {@maxRTP}%0is from {@minRTP}% to {@maxRTP}%0",
+    "paybackTitle": "Expected Payback0Expected Payback0Expected Payback0",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.0For this game, the long-term, theoretically-expected payback {RTP}.0For this game, the long-term, theoretically-expected payback {RTP}.0",
+    "subheading": "Ticket Cost: {ticketCost}0Ticket Cost: {ticketCost}0Ticket Cost: {ticketCost}0",
+    "prizeLevel": "Prize Level0Prize Level0Prize Level0",
+    "description": "Description0Description0Description0",
+    "prizeValue": "Prize Value0Prize Value0Prize Value0",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.0There is a 1 in {odds} overall chance of winning a prize on each play.0There is a 1 in {odds} overall chance of winning a prize on each play.0",
+    "descriptionText1": "Instant Win Prize0Instant Win Prize0Instant Win Prize0",
+    "descriptionText2": "Coffin Capers Bonus Prize0Coffin Capers Bonus Prize0Coffin Capers Bonus Prize0",
+    "descriptionText3": "Organ Donor Bonus Prize0Organ Donor Bonus Prize0Organ Donor Bonus Prize0",
+    "prizeDivision": "Prize Division0Prize Division0Prize Division0",
+    "prizeRemaining": "Approximate Prizes Remaining0Approximate Prizes Remaining0Approximate Prizes Remaining0",
+    "oddsPerPlay": "Odds Per Play0Odds Per Play0Odds Per Play0"
+  },
+  "title": "TEMPLATE0TEMPLATE0TEMPLATE0",
+  "MenuCommand": {
+    "price": "Price0Price0Price0",
+    "stake": "Stake0Stake0Stake0",
+    "howToPlay": "Help0Help0Help0",
+    "paytable": "Paytable0Paytable0Paytable0Paytable0Paytable0Paytable0Paytable0Paytable0Paytable0",
+    "close": "Close0Close0Close0",
+    "audio": {
+      "sound": "Sound0Sound0Sound0",
+      "on": "On0On0On0",
+      "off": "Off0Off0Off0"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: 0Error: 0Error: 0",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game.0There has been an internal error. EXIT and relaunch the game.0There has been an internal error. EXIT and relaunch the game.0"
+  },
+  "Game": {
+    "footer_balance": "BALANCE0BALANCE0BALANCE0",
+    "footer_ticketCost": "TICKET COST0TICKET COST0TICKET COST0",
+    "ticketSelect_ticketCost": "TICKET COST0TICKET COST0TICKET COST0",
+    "ticketCostPrefix": {
+      "BUY": "000",
+      "TRY": "TRY 0TRY 0TRY 0"
+    },
+    "footer_win": {
+      "BUY": "WIN0WIN0WIN0",
+      "TRY": "DEMO WIN0DEMO WIN0DEMO WIN0"
+    },
+    "button_buy": {
+      "BUY": "BUY0BUY0BUY0",
+      "TRY": "TRY0TRY0TRY0"
+    },
+    "button_try": "TRY0TRY0TRY0",
+    "button_continue": "CONTINUE0CONTINUE0CONTINUE0",
+    "button_moveToMoney": "MOVE TO MONEY0MOVE TO MONEY0MOVE TO MONEY0",
+    "button_autoPlay": "AUTO REVEAL0AUTO REVEAL0AUTO REVEAL0",
+    "button_start": "START0START0START0",
+    "button_stop": "STOP0STOP0STOP0",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN0PLAY AGAIN0PLAY AGAIN0",
+      "TRY": "TRY AGAIN0TRY AGAIN0TRY AGAIN0"
+    },
+    "button_tryAgain": "TRY AGAIN0TRY AGAIN0TRY AGAIN0",
+    "button_ok": "OK0OK0OK0",
+    "button_exit": "EXIT0EXIT0EXIT0",
+    "button_retry": "RETRY0RETRY0RETRY0",
+    "error_button_exit": "EXIT0EXIT0EXIT0",
+    "error_title": "ERROR0ERROR0ERROR0",
+    "message_nonWin": "BETTER LUCK\nNEXT TIME0BETTER LUCK\nNEXT TIME0BETTER LUCK\nNEXT TIME0",
+    "message_win": {
+      "BUY": "TOTAL WIN0TOTAL WIN0TOTAL WIN0",
+      "TRY": "TOTAL DEMO WIN0TOTAL DEMO WIN0TOTAL DEMO WIN0"
+    },
+    "picksLeft": "Picks left: {0}0Picks left: {0}0Picks left: {0}0",
+    "bonusWin": "BONUS WIN0BONUS WIN0BONUS WIN0",
+    "howToPlay": "HOW TO PLAY0HOW TO PLAY0HOW TO PLAY0",
+    "page1": "Select 8 of 16 gravestones in search of ghostly riches!\n\nFind a prize to win instantly or collect Bonus symbols to trigger the bonuses!00Select 8 of 16 gravestones in search of ghostly riches!\n\nFind a prize to win instantly or collect Bonus symbols to trigger the bonuses!00Select 8 of 16 gravestones in search of ghostly riches!\n\nFind a prize to win instantly or collect Bonus symbols to trigger the bonuses!00",
+    "page2": "3 {coffinSymbol}{line1complete}Collected triggers the Coffin Capers Bonus.\n\nSelect 1 of 2 coffins in each round to capture spirits in the spirit meter.\nCollect enough spirits in the meter to win a prize and advance to the next round. Only the prize from the last round completed is awarded.\nThe bonus ends when the spirits escape without filling the meter, or if the top prize is awarded.03 Collected triggers the Coffin Capers Bonus.\n\nSelect 1 of 2 coffins in each round to capture spirits in the spirit meter.\nCollect enough spirits in the meter to win a prize and advance to the next round. Only the prize from the last round completed is awarded.\nThe bonus ends when the spirits escape without filling the meter, or if the top prize is awarded.03 Collected triggers the Coffin Capers Bonus.\n\nSelect 1 of 2 coffins in each round to capture spirits in the spirit meter.\nCollect enough spirits in the meter to win a prize and advance to the next round. Only the prize from the last round completed is awarded.\nThe bonus ends when the spirits escape without filling the meter, or if the top prize is awarded.0",
+    "page3": "3 {organSymbol}{line1complete}Collected triggers the Organ Donor Bonus.\n\nSelect Organ Keys to reveal a cash prize or a multiplier.\nReveal COLLECT to end the Bonus.03 Collected triggers the Organ Donor Bonus.\n\nSelect Organ Keys to reveal a cash prize or a multiplier.\nReveal COLLECT to end the Bonus.03 Collected triggers the Organ Donor Bonus.\n\nSelect Organ Keys to reveal a cash prize or a multiplier.\nReveal COLLECT to end the Bonus.0",
+    "winUpTo": "WIN UP TO {0}!0WIN UP TO {0}!0WIN UP TO {0}!0",
+ 
+    "coffinBonus": "COFFIN CAPERS BONUS0COFFIN CAPERS BONUS0COFFIN CAPERS BONUS0",
+    "coffinBonusTutorial": "SELECT A COFFIN TO UNLEASH SPIRITS AND CAPTURE THEM IN THE SPIRIT METER.\n\nREACH THE {icon_help_blueLine} OR {icon_help_yellowLine} TO WIN THE PRIZE AND ADVANCE TO THE NEXT ROUND.\n\nDON’T, AND THIS BONUS IS LAID TO REST!0SELECT A COFFIN TO UNLEASH SPIRITS AND CAPTURE THEM IN THE SPIRIT METER.\n\nREACH THE {icon_help_blueLine} OR {icon_help_yellowLine} TO WIN THE PRIZE AND ADVANCE TO THE NEXT ROUND.\n\nDON’T, AND THIS BONUS IS LAID TO REST!0SELECT A COFFIN TO UNLEASH SPIRITS AND CAPTURE THEM IN THE SPIRIT METER.\n\nREACH THE {icon_help_blueLine} OR {icon_help_yellowLine} TO WIN THE PRIZE AND ADVANCE TO THE NEXT ROUND.\n\nDON’T, AND THIS BONUS IS LAID TO REST!0",
+    "coffinMessageStart": "SELECT A COFFIN TO RELEASE SPIRITS!0SELECT A COFFIN TO RELEASE SPIRITS!0SELECT A COFFIN TO RELEASE SPIRITS!0",
+    "coffinMessageCollecting": "COLLECTING SPIRITS!0COLLECTING SPIRITS!0COLLECTING SPIRITS!0",
+    "coffinMessageContinue": "NEXT ROUND ACHIEVED!0NEXT ROUND ACHIEVED!0NEXT ROUND ACHIEVED!0",
+    "coffinMessageEnd": "BONUS ENDED, COLLECT PRIZE!0BONUS ENDED, COLLECT PRIZE!0BONUS ENDED, COLLECT PRIZE!0",
+    "organBonus": "ORGAN DONOR BONUS0ORGAN DONOR BONUS0ORGAN DONOR BONUS0",
+    "organBonusTutorial": "PRESS AN ACTIVE KEY TO REVEAL CASH PRIZES OR MULTIPLIERS.\n\nONE KEY CAN BE PRESSED AT ANY ONE TIME.\n\nBONUS ENDS WHEN COLLECT IS REVEALED.0PRESS AN ACTIVE KEY TO REVEAL CASH PRIZES OR MULTIPLIERS.\n\nONE KEY CAN BE PRESSED AT ANY ONE TIME.\n\nBONUS ENDS WHEN COLLECT IS REVEALED.0PRESS AN ACTIVE KEY TO REVEAL CASH PRIZES OR MULTIPLIERS.\n\nONE KEY CAN BE PRESSED AT ANY ONE TIME.\n\nBONUS ENDS WHEN COLLECT IS REVEALED.0",
+    "testWin": "$XX.XX0$XX.XX0$XX.XX0",
+    "collect": "COLLECT0COLLECT0COLLECT0"
+  }
+}

@@ -1,0 +1,85 @@
+{"frames": {
+
+"landscape_EndOfGameMessageOverlay":
+{
+	"frame": {"x":3,"y":965,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"landscape_timeOutMessageBackground":
+{
+	"frame": {"x":1447,"y":799,"w":888,"h":461},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":888,"h":461},
+	"sourceSize": {"w":888,"h":461}
+},
+"landscape_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":965,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"landscape_tutorialOverlay":
+{
+	"frame": {"x":3,"y":965,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"losePlaque":
+{
+	"frame": {"x":1032,"y":799,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":1,"h":1}
+},
+"plaque_collect":
+{
+	"frame": {"x":1447,"y":1691,"w":509,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":509,"h":204},
+	"sourceSize": {"w":509,"h":204}
+},
+"plaque_tiny":
+{
+	"frame": {"x":823,"y":799,"w":205,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":205,"h":98},
+	"sourceSize": {"w":209,"h":102}
+},
+"portrait_tutoriaFilllBackgroundFill":
+{
+	"frame": {"x":3,"y":3,"w":816,"h":958},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":816,"h":958},
+	"sourceSize": {"w":816,"h":958}
+},
+"portrait_tutorialBackground":
+{
+	"frame": {"x":823,"y":3,"w":792,"h":942},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":792,"h":942},
+	"sourceSize": {"w":792,"h":942}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1959,"h":1898},
+	"scale": "1",
+	"related_multi_packs": [ "plaques-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1d656b7699a99a272d6063daa102ca81:ac9fbe5331b4c5779ec1af5e2de330be:13c01ba50546873ca82c7810a9ccab05$"
+}
+}

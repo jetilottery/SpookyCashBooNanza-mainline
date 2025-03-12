@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "is {@minRTP}%",
+    "RTPrange": "is from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "descriptionText1": "Instant Win Prize",
+    "descriptionText2": "Coffin Capers Bonus Prize",
+    "descriptionText3": "Organ Donor Bonus Prize",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "AUTO REVEAL",
+    "button_start": "START",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "button_retry": "RETRY",
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN"
+    },
+    "picksLeft": "Picks left: {0}",
+    "bonusWin": "BONUS WIN",
+    "howToPlay": "HOW TO PLAY",
+    "page1": "Select 8 of 16 gravestones in search of ghostly riches!\n\nFind a prize to win instantly or collect Bonus symbols to trigger the bonuses!",
+    "page2":  "3 {coffinSymbol}{line1complete}Collected triggers the Coffin Capers Bonus.\n\nSelect 1 of 2 coffins in each round to capture spirits in the spirit meter.\nCollect enough spirits in the meter to win a prize and advance to the next round. Only the prize from the last round completed is awarded.\nThe bonus ends when the spirits escape without filling the meter, or if the top prize is awarded.",
+    "page3": "3 {organSymbol}{line1complete}Collected triggers the Organ Donor Bonus.\n\nSelect Organ Keys to reveal a cash prize or a multiplier.\nReveal COLLECT to end the Bonus.",
+    "winUpTo": "WIN UP TO {0}!",
+
+    "coffinBonus": "COFFIN CAPERS BONUS",
+    "coffinBonusTutorial": "SELECT A COFFIN TO UNLEASH SPIRITS AND CAPTURE THEM IN THE SPIRIT METER.\n\nREACH THE {icon_help_blueLine} OR {icon_help_yellowLine} TO WIN THE PRIZE AND ADVANCE TO THE NEXT ROUND.\n\nDON’T, AND THIS BONUS IS LAID TO REST!",
+    "coffinMessageStart": "SELECT A COFFIN TO RELEASE SPIRITS!",
+    "coffinMessageCollecting": "COLLECTING SPIRITS!",
+    "coffinMessageContinue": "NEXT ROUND ACHIEVED!",
+    "coffinMessageEnd": "BONUS ENDED, COLLECT PRIZE!",
+    "organBonus": "ORGAN DONOR BONUS",
+    "organBonusTutorial": "PRESS AN ACTIVE KEY TO REVEAL CASH PRIZES OR MULTIPLIERS.\n\nONE KEY CAN BE PRESSED AT ANY ONE TIME.\n\nBONUS ENDS WHEN COLLECT IS REVEALED.",
+    "testWin": "$XX.XX",
+    "collect": "COLLECT"
+  }
+}

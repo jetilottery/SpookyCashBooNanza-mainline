@@ -1,0 +1,972 @@
+
+Transition.jpg
+size: 1918,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/flashBurst/backBurst_0000
+  rotate: false
+  xy: 908, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0027
+  rotate: false
+  xy: 908, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0028
+  rotate: false
+  xy: 908, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0029
+  rotate: false
+  xy: 908, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0001
+  rotate: false
+  xy: 1120, 11
+  size: 159, 216
+  orig: 240, 240
+  offset: 32, 24
+  index: -1
+nonTrans/flashBurst/backBurst_0002
+  rotate: false
+  xy: 2, 3
+  size: 228, 224
+  orig: 240, 240
+  offset: 0, 16
+  index: -1
+nonTrans/flashBurst/backBurst_0003
+  rotate: true
+  xy: 1212, 471
+  size: 240, 234
+  orig: 240, 240
+  offset: 0, 6
+  index: -1
+nonTrans/flashBurst/backBurst_0004
+  rotate: false
+  xy: 2, 471
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0005
+  rotate: false
+  xy: 2, 229
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0006
+  rotate: false
+  xy: 244, 471
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0007
+  rotate: false
+  xy: 244, 229
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0008
+  rotate: false
+  xy: 486, 471
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0009
+  rotate: false
+  xy: 486, 229
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0010
+  rotate: false
+  xy: 728, 471
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0011
+  rotate: false
+  xy: 728, 229
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0012
+  rotate: false
+  xy: 970, 471
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0013
+  rotate: false
+  xy: 970, 229
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0014
+  rotate: false
+  xy: 1448, 471
+  size: 232, 240
+  orig: 240, 240
+  offset: 8, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0015
+  rotate: false
+  xy: 1682, 471
+  size: 232, 240
+  orig: 240, 240
+  offset: 8, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0016
+  rotate: false
+  xy: 1212, 229
+  size: 233, 240
+  orig: 240, 240
+  offset: 7, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0017
+  rotate: false
+  xy: 1447, 229
+  size: 233, 240
+  orig: 240, 240
+  offset: 7, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0018
+  rotate: false
+  xy: 1682, 239
+  size: 234, 230
+  orig: 240, 240
+  offset: 6, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0019
+  rotate: false
+  xy: 683, 3
+  size: 223, 224
+  orig: 240, 240
+  offset: 17, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0020
+  rotate: false
+  xy: 458, 2
+  size: 223, 225
+  orig: 240, 240
+  offset: 17, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0021
+  rotate: false
+  xy: 232, 2
+  size: 224, 225
+  orig: 240, 240
+  offset: 16, 0
+  index: -1
+nonTrans/flashBurst/backBurst_0022
+  rotate: true
+  xy: 908, 7
+  size: 220, 210
+  orig: 240, 240
+  offset: 16, 8
+  index: -1
+nonTrans/flashBurst/backBurst_0023
+  rotate: false
+  xy: 1281, 44
+  size: 180, 183
+  orig: 240, 240
+  offset: 44, 35
+  index: -1
+nonTrans/flashBurst/backBurst_0024
+  rotate: true
+  xy: 1463, 47
+  size: 180, 177
+  orig: 240, 240
+  offset: 44, 35
+  index: -1
+nonTrans/flashBurst/backBurst_0025
+  rotate: true
+  xy: 1642, 47
+  size: 180, 140
+  orig: 240, 240
+  offset: 44, 35
+  index: -1
+nonTrans/flashBurst/backBurst_0026
+  rotate: false
+  xy: 1784, 190
+  size: 48, 47
+  orig: 240, 240
+  offset: 139, 77
+  index: -1
+
+Transition2.jpg
+size: 2044,1872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeLoop/smokeLoop_0000
+  rotate: false
+  xy: 2, 1166
+  size: 424, 355
+  orig: 864, 486
+  offset: 217, 83
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0030
+  rotate: false
+  xy: 2, 1166
+  size: 424, 355
+  orig: 864, 486
+  offset: 217, 83
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0001
+  rotate: false
+  xy: 851, 1151
+  size: 430, 363
+  orig: 864, 486
+  offset: 214, 80
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0003
+  rotate: false
+  xy: 839, 416
+  size: 433, 368
+  orig: 864, 486
+  offset: 216, 74
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0005
+  rotate: false
+  xy: 1277, 743
+  size: 438, 367
+  orig: 864, 486
+  offset: 209, 70
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0008
+  rotate: false
+  xy: 2, 54
+  size: 451, 368
+  orig: 864, 486
+  offset: 196, 82
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0010
+  rotate: false
+  xy: 1274, 374
+  size: 444, 367
+  orig: 864, 486
+  offset: 208, 74
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0017
+  rotate: false
+  xy: 1268, 1516
+  size: 415, 354
+  orig: 864, 486
+  offset: 231, 65
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0018
+  rotate: false
+  xy: 428, 1161
+  size: 421, 357
+  orig: 864, 486
+  offset: 229, 65
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0019
+  rotate: false
+  xy: 844, 1520
+  size: 422, 350
+  orig: 864, 486
+  offset: 232, 77
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0020
+  rotate: true
+  xy: 1685, 1459
+  size: 411, 357
+  orig: 864, 486
+  offset: 233, 74
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0021
+  rotate: false
+  xy: 2, 799
+  size: 417, 365
+  orig: 864, 486
+  offset: 229, 71
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0023
+  rotate: false
+  xy: 1263, 2
+  size: 431, 370
+  orig: 864, 486
+  offset: 220, 65
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0029
+  rotate: false
+  xy: 2, 1524
+  size: 419, 346
+  orig: 864, 486
+  offset: 221, 86
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0031
+  rotate: false
+  xy: 845, 786
+  size: 430, 363
+  orig: 864, 486
+  offset: 214, 80
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0033
+  rotate: false
+  xy: 455, 46
+  size: 434, 368
+  orig: 864, 486
+  offset: 216, 74
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0035
+  rotate: true
+  xy: 891, 4
+  size: 410, 370
+  orig: 864, 486
+  offset: 237, 69
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0038
+  rotate: false
+  xy: 2, 428
+  size: 408, 369
+  orig: 864, 486
+  offset: 227, 84
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0040
+  rotate: false
+  xy: 412, 424
+  size: 425, 368
+  orig: 864, 486
+  offset: 218, 78
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0042
+  rotate: false
+  xy: 421, 794
+  size: 422, 365
+  orig: 864, 486
+  offset: 209, 69
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0049
+  rotate: false
+  xy: 1283, 1112
+  size: 399, 402
+  orig: 864, 486
+  offset: 239, 58
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0059
+  rotate: false
+  xy: 423, 1523
+  size: 419, 347
+  orig: 864, 486
+  offset: 221, 86
+  index: -1
+
+Transition3.jpg
+size: 1783,1896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeLoop/smokeLoop_0002
+  rotate: false
+  xy: 2, 1523
+  size: 432, 371
+  orig: 864, 486
+  offset: 215, 77
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0004
+  rotate: false
+  xy: 2, 773
+  size: 430, 374
+  orig: 864, 486
+  offset: 214, 72
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0006
+  rotate: false
+  xy: 851, 1148
+  size: 445, 373
+  orig: 864, 486
+  offset: 205, 69
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0007
+  rotate: false
+  xy: 434, 772
+  size: 451, 374
+  orig: 864, 486
+  offset: 200, 72
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0009
+  rotate: false
+  xy: 1325, 1522
+  size: 456, 372
+  orig: 864, 486
+  offset: 194, 78
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0011
+  rotate: false
+  xy: 436, 1523
+  size: 450, 371
+  orig: 864, 486
+  offset: 203, 71
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0012
+  rotate: false
+  xy: 1285, 389
+  size: 445, 378
+  orig: 864, 486
+  offset: 202, 68
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0013
+  rotate: false
+  xy: 864, 3
+  size: 438, 384
+  orig: 864, 486
+  offset: 213, 65
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0016
+  rotate: false
+  xy: 2, 1149
+  size: 415, 372
+  orig: 864, 486
+  offset: 232, 67
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0022
+  rotate: false
+  xy: 1298, 1147
+  size: 425, 373
+  orig: 864, 486
+  offset: 225, 68
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0024
+  rotate: false
+  xy: 856, 390
+  size: 427, 377
+  orig: 864, 486
+  offset: 217, 63
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0025
+  rotate: false
+  xy: 1304, 2
+  size: 431, 385
+  orig: 864, 486
+  offset: 213, 60
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0032
+  rotate: false
+  xy: 888, 1523
+  size: 435, 371
+  orig: 864, 486
+  offset: 213, 77
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0034
+  rotate: false
+  xy: 887, 769
+  size: 428, 376
+  orig: 864, 486
+  offset: 216, 71
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0036
+  rotate: false
+  xy: 1317, 769
+  size: 416, 376
+  orig: 864, 486
+  offset: 235, 67
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0037
+  rotate: false
+  xy: 441, 6
+  size: 421, 382
+  orig: 864, 486
+  offset: 232, 67
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0039
+  rotate: false
+  xy: 2, 395
+  size: 417, 376
+  orig: 864, 486
+  offset: 222, 82
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0041
+  rotate: false
+  xy: 421, 394
+  size: 433, 376
+  orig: 864, 486
+  offset: 213, 73
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0043
+  rotate: false
+  xy: 419, 1149
+  size: 430, 372
+  orig: 864, 486
+  offset: 205, 66
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0044
+  rotate: false
+  xy: 2, 11
+  size: 437, 381
+  orig: 864, 486
+  offset: 202, 62
+  index: -1
+
+Transition4.jpg
+size: 2010,1750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/smokeLoop/smokeLoop_0014
+  rotate: true
+  xy: 404, 408
+  size: 439, 392
+  orig: 864, 486
+  offset: 217, 62
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0015
+  rotate: true
+  xy: 1199, 1322
+  size: 426, 394
+  orig: 864, 486
+  offset: 232, 62
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0026
+  rotate: true
+  xy: 1202, 465
+  size: 425, 393
+  orig: 864, 486
+  offset: 211, 56
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0027
+  rotate: true
+  xy: 798, 440
+  size: 428, 402
+  orig: 864, 486
+  offset: 212, 53
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0028
+  rotate: true
+  xy: 407, 870
+  size: 431, 409
+  orig: 864, 486
+  offset: 211, 52
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0045
+  rotate: true
+  xy: 400, 1303
+  size: 445, 389
+  orig: 864, 486
+  offset: 197, 60
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0046
+  rotate: true
+  xy: 2, 1296
+  size: 452, 396
+  orig: 864, 486
+  offset: 194, 58
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0047
+  rotate: true
+  xy: 2, 404
+  size: 443, 400
+  orig: 864, 486
+  offset: 205, 58
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0048
+  rotate: true
+  xy: 2, 849
+  size: 445, 403
+  orig: 864, 486
+  offset: 205, 58
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0050
+  rotate: false
+  xy: 431, 2
+  size: 405, 404
+  orig: 864, 486
+  offset: 234, 59
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0051
+  rotate: false
+  xy: 1595, 1339
+  size: 413, 409
+  orig: 864, 486
+  offset: 230, 58
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0052
+  rotate: true
+  xy: 1260, 44
+  size: 419, 415
+  orig: 864, 486
+  offset: 227, 57
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0053
+  rotate: true
+  xy: 838, 12
+  size: 426, 420
+  orig: 864, 486
+  offset: 222, 55
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0054
+  rotate: true
+  xy: 1595, 914
+  size: 423, 405
+  orig: 864, 486
+  offset: 218, 52
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0055
+  rotate: false
+  xy: 2, 5
+  size: 427, 397
+  orig: 864, 486
+  offset: 214, 52
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0056
+  rotate: true
+  xy: 1597, 489
+  size: 423, 401
+  orig: 864, 486
+  offset: 212, 53
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0057
+  rotate: true
+  xy: 818, 892
+  size: 426, 401
+  orig: 864, 486
+  offset: 213, 53
+  index: -1
+nonTrans/smokeLoop/smokeLoop_0058
+  rotate: true
+  xy: 791, 1320
+  size: 428, 406
+  orig: 864, 486
+  offset: 213, 54
+  index: -1
+
+Transition5.jpg
+size: 1865,1761
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/sparkleBurst/sparkleBurst_0000
+  rotate: false
+  xy: 2, 1758
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0039
+  rotate: false
+  xy: 2, 1758
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0001
+  rotate: true
+  xy: 5, 1704
+  size: 55, 59
+  orig: 1200, 1200
+  offset: 668, 723
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0002
+  rotate: false
+  xy: 66, 1649
+  size: 212, 110
+  orig: 1200, 1200
+  offset: 515, 722
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0003
+  rotate: false
+  xy: 280, 1533
+  size: 363, 226
+  orig: 1200, 1200
+  offset: 468, 682
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0004
+  rotate: false
+  xy: 1237, 1468
+  size: 463, 291
+  orig: 1200, 1200
+  offset: 397, 654
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0005
+  rotate: false
+  xy: 608, 7
+  size: 648, 391
+  orig: 1200, 1200
+  offset: 303, 601
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0014
+  rotate: false
+  xy: 2, 485
+  size: 603, 380
+  orig: 1200, 1200
+  offset: 176, 512
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0015
+  rotate: false
+  xy: 1212, 400
+  size: 618, 390
+  orig: 1200, 1200
+  offset: 165, 511
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0022
+  rotate: false
+  xy: 607, 470
+  size: 603, 382
+  orig: 1200, 1200
+  offset: 163, 484
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0023
+  rotate: false
+  xy: 2, 78
+  size: 604, 390
+  orig: 1200, 1200
+  offset: 163, 477
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0024
+  rotate: false
+  xy: 1258, 2
+  size: 605, 396
+  orig: 1200, 1200
+  offset: 163, 471
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0032
+  rotate: false
+  xy: 1237, 792
+  size: 614, 368
+  orig: 1200, 1200
+  offset: 159, 502
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0033
+  rotate: false
+  xy: 1226, 1162
+  size: 616, 304
+  orig: 1200, 1200
+  offset: 157, 566
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0034
+  rotate: false
+  xy: 608, 1173
+  size: 616, 303
+  orig: 1200, 1200
+  offset: 157, 567
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0035
+  rotate: false
+  xy: 619, 854
+  size: 616, 306
+  orig: 1200, 1200
+  offset: 157, 564
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0036
+  rotate: false
+  xy: 2, 867
+  size: 615, 304
+  orig: 1200, 1200
+  offset: 157, 566
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0037
+  rotate: false
+  xy: 2, 1230
+  size: 604, 301
+  orig: 1200, 1200
+  offset: 166, 568
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0038
+  rotate: false
+  xy: 645, 1478
+  size: 590, 281
+  orig: 1200, 1200
+  offset: 167, 586
+  index: -1
+
+Transition6.jpg
+size: 1783,1972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/sparkleBurst/sparkleBurst_0006
+  rotate: true
+  xy: 2, 2
+  size: 763, 456
+  orig: 1200, 1200
+  offset: 249, 565
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0007
+  rotate: true
+  xy: 1286, 457
+  size: 744, 454
+  orig: 1200, 1200
+  offset: 250, 571
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0008
+  rotate: false
+  xy: 460, 308
+  size: 690, 423
+  orig: 1200, 1200
+  offset: 275, 587
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0009
+  rotate: true
+  xy: 1298, 1260
+  size: 710, 431
+  orig: 1200, 1200
+  offset: 277, 583
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0010
+  rotate: false
+  xy: 480, 733
+  size: 804, 468
+  orig: 1200, 1200
+  offset: 219, 565
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0011
+  rotate: false
+  xy: 2, 1485
+  size: 808, 485
+  orig: 1200, 1200
+  offset: 239, 551
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0012
+  rotate: true
+  xy: 812, 1203
+  size: 767, 484
+  orig: 1200, 1200
+  offset: 225, 542
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0013
+  rotate: true
+  xy: 2, 767
+  size: 716, 476
+  orig: 1200, 1200
+  offset: 195, 513
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0018
+  rotate: false
+  xy: 1152, 40
+  size: 629, 415
+  orig: 1200, 1200
+  offset: 165, 502
+  index: -1
+
+Transition7.jpg
+size: 1872,1637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/sparkleBurst/sparkleBurst_0016
+  rotate: false
+  xy: 2, 1237
+  size: 622, 398
+  orig: 1200, 1200
+  offset: 166, 509
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0017
+  rotate: false
+  xy: 611, 422
+  size: 625, 407
+  orig: 1200, 1200
+  offset: 166, 506
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0019
+  rotate: false
+  xy: 629, 3
+  size: 629, 414
+  orig: 1200, 1200
+  offset: 165, 498
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0020
+  rotate: false
+  xy: 2, 9
+  size: 625, 411
+  orig: 1200, 1200
+  offset: 165, 494
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0021
+  rotate: false
+  xy: 617, 833
+  size: 613, 402
+  orig: 1200, 1200
+  offset: 164, 489
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0025
+  rotate: false
+  xy: 1232, 831
+  size: 607, 404
+  orig: 1200, 1200
+  offset: 162, 464
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0026
+  rotate: false
+  xy: 2, 425
+  size: 607, 409
+  orig: 1200, 1200
+  offset: 163, 459
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0027
+  rotate: false
+  xy: 1260, 2
+  size: 610, 415
+  orig: 1200, 1200
+  offset: 160, 453
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0028
+  rotate: false
+  xy: 1238, 419
+  size: 611, 410
+  orig: 1200, 1200
+  offset: 160, 459
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0029
+  rotate: false
+  xy: 626, 1237
+  size: 612, 398
+  orig: 1200, 1200
+  offset: 160, 471
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0030
+  rotate: false
+  xy: 2, 836
+  size: 613, 399
+  orig: 1200, 1200
+  offset: 159, 471
+  index: -1
+nonTrans/sparkleBurst/sparkleBurst_0031
+  rotate: false
+  xy: 1240, 1237
+  size: 614, 398
+  orig: 1200, 1200
+  offset: 159, 472
+  index: -1
+
+Transition.png
+size: 724,773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/BG_smoke_coffin
+  rotate: false
+  xy: 2, 2
+  size: 712, 362
+  orig: 720, 405
+  offset: 4, 42
+  index: -1
+trans/BG_smoke_organ
+  rotate: false
+  xy: 2, 366
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1

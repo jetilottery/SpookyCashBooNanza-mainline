@@ -1,0 +1,103 @@
+﻿{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% bis {@maxRTP}%",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+        "subheading": "Ticketpreis: {ticketCost}",
+        "prizeLevel": "Preis-Stufe",
+        "description": "Beschreibung",
+        "prizeValue": "Preis-Wert",
+        "overallChances": "Die Chance, bei einem Spiel einen Preis zu gewinnen, beträgt insgesamt 1 zu {odds}.",
+        "descriptionText1": "Sofortgewinn-Preis",
+        "descriptionText2": "Sarg-Eskapaden-Bonuspreis",
+        "descriptionText3": "Organisten-Spender-Bonuspreis",
+        "prizeDivision": "Preis-Aufteilung",
+        "prizeRemaining": "Ungefähr verbleibende Preise",
+        "oddsPerPlay": "Chancen pro Spiel"
+    },
+    "title": "VORLAGE",
+    "MenuCommand":
+    {
+        "price": "Preis",
+        "stake": "Einsatz",
+        "howToPlay": "Hilfe",
+        "paytable": "Gewinntabelle",
+        "close": "Schliessen",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "Ein",
+            "off": "Aus"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Fehler: ",
+        "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+    },
+    "Game":
+    {
+        "footer_balance": "GUTHABEN",
+        "footer_ticketCost": "TICKETPREIS",
+        "ticketSelect_ticketCost": "TICKETPREIS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "GEWINN",
+            "TRY": "DEMO-GEWINN"
+        },
+        "button_buy":
+        {
+            "BUY": "KAUFEN",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_continue": "WEITER",
+        "button_moveToMoney": "UM GELD SPIELEN",
+        "button_autoPlay": "AUTO-AUFDECKEN",
+        "button_start": "START",
+        "button_stop": "STOPP",
+        "button_playAgain":
+        {
+            "BUY": "ERNEUT SPIELEN",
+            "TRY": "ERNEUT VERSUCHEN"
+        },
+        "button_tryAgain": "ERNEUT VERSUCHEN",
+        "button_ok": "OKAY",
+        "button_exit": "BEENDEN",
+        "button_retry": "ERNEUT VERSUCHEN",
+        "error_button_exit": "BEENDEN",
+        "error_title": "FEHLER",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+        "message_win":
+        {
+            "BUY": "GESAMTGEWINN",
+            "TRY": "GESAMT-DEMO-GEWINN"
+        },
+        "picksLeft": "Verbleibende Auswahlen: {0}",
+        "bonusWin": "BONUSGEWINN",
+        "howToPlay": "SO WIRD GESPIELT",
+        "page1": "Wählen Sie auf der Suche nach gespenstischen Reichtümern aus 8 von 16 Grabsteinen aus!\n\nFinden Sie einen Preis, um sofort zu gewinnen – oder sammeln Sie Bonussymbole, um die Boni auszulösen!",
+        "page2": "3 gesammelte{coffinSymbol}{line1complete}lösen den Sarg-Eskapaden-Bonus aus.\n\nWählen Sie 1 von 2 Särgen in jeder Runde aus, um Geister in der Geisteranzeige zu fangen.\nSammeln Sie genug Geister in der Anzeige, um einen Preis zu gewinnen und zur nächsten Runde aufzusteigen. Nur der Preis der letzten abgeschlossenen Runde wird vergeben.\nDer Bonus endet, wenn die Geister entkommen, ohne die Anzeige zu füllen, oder wenn der Hauptpreis vergeben wird.",
+        "page3": "3 gesammelte{organSymbol}{line1complete}lösen den Organisten-Spender-Bonus aus.\n\nWählen Sie Orgeltasten, um einen Cash-Preis oder einen Multiplikator aufzudecken.\nDecken Sie EINSAMMELN auf, um den Bonus zu beenden.",
+        "winUpTo": "GEWINNEN SIE BIS ZU {0}!",
+
+        "coffinBonus": "SARG-ESKAPADEN-BONUS",
+        "coffinBonusTutorial": "WÄHLEN SIE EINEN SARG AUS, UM GEISTER FREIZULASSEN UND SIE IN DER GEISTER-ANZEIGE ZU FANGEN.\n\nERREICHEN SIE DIE {icon_help_blueLine} ODER DIE {icon_help_yellowLine}, UM DEN PREIS ZU GEWINNEN UND ZUR NÄCHSTEN RUNDE ZU GELANGEN.\n\nGELINGT IHNEN DAS NICHT, WIRD DIESER BONUS ZU GRABE GETRAGEN!",
+        "coffinMessageStart": "WÄHLEN SIE EINEN SARG, UM GEISTER FREIZULASSEN!",
+        "coffinMessageCollecting": "SAMMELN SIE GEISTER!",
+        "coffinMessageContinue": "NÄCHSTE RUNDE ERREICHT!",
+        "coffinMessageEnd": "BONUS BEENDET, PREIS EINSAMMELN!",
+        "organBonus": "ORGANISTEN-SPENDER-BONUS",
+        "organBonusTutorial": "DRÜCKEN SIE AUF EINEN AKTIVEN TASTE, UM CASH-PREISE ODER MULTIPLIKATOREN AUFZUDECKEN.\n\nES KANN JEDERZEIT AUF EINE TASTE GEDRÜCKT WERDEN.\n\nDER BONUS ENDET, WENN „EINSAMMELN“ AUFGEDECKT WIRD.",
+        "testWin": "$XX.XX",
+        "collect": "EINSAMMELN"
+    }
+}

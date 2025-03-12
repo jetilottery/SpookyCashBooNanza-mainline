@@ -1,0 +1,1015 @@
+
+WinPlaque.jpg
+size: 164,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/BurstRay
+  rotate: false
+  xy: 2, 2
+  size: 160, 155
+  orig: 160, 155
+  offset: 0, 0
+  index: -1
+
+WinPlaque2.jpg
+size: 2000,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/graveSparkBurst/graveSparkBurst_0000
+  rotate: false
+  xy: 252, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0001
+  rotate: false
+  xy: 252, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0002
+  rotate: false
+  xy: 252, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0003
+  rotate: false
+  xy: 252, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0004
+  rotate: true
+  xy: 1417, 45
+  size: 292, 245
+  orig: 400, 400
+  offset: 44, 94
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0005
+  rotate: true
+  xy: 1705, 1326
+  size: 320, 282
+  orig: 400, 400
+  offset: 35, 80
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0006
+  rotate: false
+  xy: 1347, 339
+  size: 319, 307
+  orig: 400, 400
+  offset: 32, 71
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0007
+  rotate: true
+  xy: 1347, 648
+  size: 324, 321
+  orig: 400, 400
+  offset: 30, 67
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0008
+  rotate: false
+  xy: 1017, 643
+  size: 328, 328
+  orig: 400, 400
+  offset: 27, 66
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0009
+  rotate: false
+  xy: 682, 971
+  size: 331, 334
+  orig: 400, 400
+  offset: 26, 64
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0010
+  rotate: false
+  xy: 1031, 1308
+  size: 333, 337
+  orig: 400, 400
+  offset: 25, 63
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0011
+  rotate: false
+  xy: 344, 627
+  size: 335, 337
+  orig: 400, 400
+  offset: 24, 63
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0012
+  rotate: false
+  xy: 344, 966
+  size: 336, 338
+  orig: 400, 400
+  offset: 24, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0013
+  rotate: false
+  xy: 1366, 1308
+  size: 337, 338
+  orig: 400, 400
+  offset: 23, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0014
+  rotate: true
+  xy: 690, 1308
+  size: 337, 339
+  orig: 400, 400
+  offset: 23, 61
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0015
+  rotate: false
+  xy: 339, 284
+  size: 336, 339
+  orig: 400, 400
+  offset: 23, 61
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0016
+  rotate: false
+  xy: 2, 965
+  size: 340, 339
+  orig: 400, 400
+  offset: 19, 61
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0017
+  rotate: false
+  xy: 2, 625
+  size: 340, 338
+  orig: 400, 400
+  offset: 18, 61
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0018
+  rotate: false
+  xy: 347, 1307
+  size: 341, 338
+  orig: 400, 400
+  offset: 17, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0019
+  rotate: false
+  xy: 2, 1645
+  size: 343, 338
+  orig: 400, 400
+  offset: 15, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0020
+  rotate: false
+  xy: 2, 1306
+  size: 343, 337
+  orig: 400, 400
+  offset: 14, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0021
+  rotate: false
+  xy: 693, 1647
+  size: 343, 336
+  orig: 400, 400
+  offset: 13, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0022
+  rotate: false
+  xy: 347, 1647
+  size: 344, 336
+  orig: 400, 400
+  offset: 12, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0023
+  rotate: false
+  xy: 1038, 1648
+  size: 341, 335
+  orig: 400, 400
+  offset: 14, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0024
+  rotate: true
+  xy: 2, 282
+  size: 341, 335
+  orig: 400, 400
+  offset: 13, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0025
+  rotate: false
+  xy: 1381, 1648
+  size: 340, 335
+  orig: 400, 400
+  offset: 12, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0026
+  rotate: false
+  xy: 1672, 973
+  size: 324, 333
+  orig: 400, 400
+  offset: 29, 63
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0027
+  rotate: true
+  xy: 682, 644
+  size: 325, 333
+  orig: 400, 400
+  offset: 29, 63
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0028
+  rotate: false
+  xy: 1015, 973
+  size: 326, 333
+  orig: 400, 400
+  offset: 29, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0029
+  rotate: false
+  xy: 1343, 974
+  size: 327, 332
+  orig: 400, 400
+  offset: 29, 62
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0030
+  rotate: true
+  xy: 681, 328
+  size: 314, 328
+  orig: 400, 400
+  offset: 29, 65
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0031
+  rotate: false
+  xy: 1670, 646
+  size: 328, 325
+  orig: 400, 400
+  offset: 29, 67
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0032
+  rotate: true
+  xy: 1011, 333
+  size: 308, 326
+  orig: 400, 400
+  offset: 30, 64
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0033
+  rotate: false
+  xy: 807, 3
+  size: 305, 323
+  orig: 400, 400
+  offset: 31, 66
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0034
+  rotate: false
+  xy: 1114, 10
+  size: 301, 321
+  orig: 400, 400
+  offset: 32, 65
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0035
+  rotate: true
+  xy: 1668, 356
+  size: 288, 317
+  orig: 400, 400
+  offset: 37, 65
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0036
+  rotate: true
+  xy: 492, 3
+  size: 279, 313
+  orig: 400, 400
+  offset: 43, 65
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0037
+  rotate: false
+  xy: 1723, 1694
+  size: 264, 289
+  orig: 400, 400
+  offset: 57, 72
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0038
+  rotate: true
+  xy: 1668, 96
+  size: 258, 283
+  orig: 400, 400
+  offset: 62, 71
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0039
+  rotate: false
+  xy: 2, 2
+  size: 248, 278
+  orig: 400, 400
+  offset: 70, 71
+  index: -1
+nonTrans/graveSparkBurst/graveSparkBurst_0040
+  rotate: false
+  xy: 252, 12
+  size: 238, 268
+  orig: 400, 400
+  offset: 73, 73
+  index: -1
+
+WinPlaque3.jpg
+size: 2008,2027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/winPlaque_sweep/win_plaque_sweep_0000
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0001
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0002
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0003
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0004
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0005
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0006
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0058
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0059
+  rotate: false
+  xy: 2, 2024
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0007
+  rotate: true
+  xy: 39, 2000
+  size: 25, 28
+  orig: 648, 1152
+  offset: 34, 662
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0008
+  rotate: false
+  xy: 262, 1978
+  size: 63, 47
+  orig: 648, 1152
+  offset: 32, 658
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0009
+  rotate: false
+  xy: 327, 1971
+  size: 67, 54
+  orig: 648, 1152
+  offset: 30, 655
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0010
+  rotate: true
+  xy: 580, 1956
+  size: 69, 72
+  orig: 648, 1152
+  offset: 30, 639
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0011
+  rotate: false
+  xy: 753, 1934
+  size: 125, 91
+  orig: 648, 1152
+  offset: 30, 630
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0012
+  rotate: false
+  xy: 1132, 1900
+  size: 136, 125
+  orig: 648, 1152
+  offset: 26, 604
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0013
+  rotate: true
+  xy: 1585, 1879
+  size: 146, 157
+  orig: 648, 1152
+  offset: 22, 575
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0014
+  rotate: true
+  xy: 1744, 1877
+  size: 148, 171
+  orig: 648, 1152
+  offset: 23, 562
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0015
+  rotate: true
+  xy: 572, 1748
+  size: 184, 188
+  orig: 648, 1152
+  offset: 32, 548
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0016
+  rotate: true
+  xy: 171, 1790
+  size: 179, 208
+  orig: 648, 1152
+  offset: 45, 528
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0017
+  rotate: true
+  xy: 1195, 1661
+  size: 225, 236
+  orig: 648, 1152
+  offset: 46, 500
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0018
+  rotate: true
+  xy: 309, 1466
+  size: 280, 282
+  orig: 648, 1152
+  offset: 47, 481
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0019
+  rotate: false
+  xy: 593, 1427
+  size: 314, 312
+  orig: 648, 1152
+  offset: 49, 460
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0020
+  rotate: true
+  xy: 1259, 1310
+  size: 326, 335
+  orig: 648, 1152
+  offset: 50, 440
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0021
+  rotate: true
+  xy: 1596, 1276
+  size: 339, 361
+  orig: 648, 1152
+  offset: 50, 416
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0022
+  rotate: true
+  xy: 364, 1069
+  size: 356, 396
+  orig: 648, 1152
+  offset: 51, 382
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0023
+  rotate: true
+  xy: 762, 958
+  size: 382, 434
+  orig: 648, 1152
+  offset: 36, 343
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0024
+  rotate: true
+  xy: 442, 550
+  size: 406, 441
+  orig: 648, 1152
+  offset: 32, 332
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0025
+  rotate: false
+  xy: 2, 216
+  size: 419, 446
+  orig: 648, 1152
+  offset: 31, 322
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0026
+  rotate: true
+  xy: 423, 99
+  size: 449, 454
+  orig: 648, 1152
+  offset: 31, 304
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0027
+  rotate: false
+  xy: 879, 46
+  size: 457, 468
+  orig: 648, 1152
+  offset: 31, 278
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0032
+  rotate: false
+  xy: 1338, 2
+  size: 535, 457
+  orig: 648, 1152
+  offset: 83, 279
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0033
+  rotate: false
+  xy: 1342, 461
+  size: 474, 418
+  orig: 648, 1152
+  offset: 149, 308
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0034
+  rotate: false
+  xy: 885, 516
+  size: 455, 406
+  orig: 648, 1152
+  offset: 173, 306
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0035
+  rotate: false
+  xy: 2, 664
+  size: 438, 403
+  orig: 648, 1152
+  offset: 194, 306
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0036
+  rotate: false
+  xy: 1590, 881
+  size: 416, 393
+  orig: 648, 1152
+  offset: 218, 308
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0037
+  rotate: true
+  xy: 1198, 924
+  size: 384, 390
+  orig: 648, 1152
+  offset: 250, 307
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0038
+  rotate: true
+  xy: 2, 1112
+  size: 352, 360
+  orig: 648, 1152
+  offset: 282, 306
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0039
+  rotate: true
+  xy: 909, 1342
+  size: 317, 348
+  orig: 648, 1152
+  offset: 312, 307
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0040
+  rotate: true
+  xy: 2, 1512
+  size: 276, 305
+  orig: 648, 1152
+  offset: 331, 306
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0041
+  rotate: true
+  xy: 1687, 1617
+  size: 258, 272
+  orig: 648, 1152
+  offset: 348, 306
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0042
+  rotate: true
+  xy: 1433, 1638
+  size: 239, 252
+  orig: 648, 1152
+  offset: 368, 304
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0043
+  rotate: true
+  xy: 964, 1683
+  size: 215, 229
+  orig: 648, 1152
+  offset: 390, 303
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0044
+  rotate: true
+  xy: 762, 1741
+  size: 188, 200
+  orig: 648, 1152
+  offset: 416, 308
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0045
+  rotate: false
+  xy: 381, 1775
+  size: 189, 180
+  orig: 648, 1152
+  offset: 432, 307
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0046
+  rotate: true
+  xy: 2, 1835
+  size: 160, 167
+  orig: 648, 1152
+  offset: 464, 302
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0047
+  rotate: true
+  xy: 1423, 1888
+  size: 137, 160
+  orig: 648, 1152
+  offset: 489, 287
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0048
+  rotate: true
+  xy: 1270, 1896
+  size: 129, 151
+  orig: 648, 1152
+  offset: 498, 276
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0049
+  rotate: true
+  xy: 996, 1911
+  size: 114, 134
+  orig: 648, 1152
+  offset: 513, 274
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0050
+  rotate: true
+  xy: 880, 1931
+  size: 94, 114
+  orig: 648, 1152
+  offset: 532, 275
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0051
+  rotate: true
+  xy: 654, 1946
+  size: 79, 97
+  orig: 648, 1152
+  offset: 546, 282
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0052
+  rotate: true
+  xy: 486, 1957
+  size: 68, 92
+  orig: 648, 1152
+  offset: 556, 286
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0053
+  rotate: true
+  xy: 396, 1963
+  size: 62, 88
+  orig: 648, 1152
+  offset: 560, 288
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0054
+  rotate: true
+  xy: 179, 1987
+  size: 38, 81
+  orig: 648, 1152
+  offset: 580, 288
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0055
+  rotate: true
+  xy: 121, 1997
+  size: 28, 56
+  orig: 648, 1152
+  offset: 581, 290
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0056
+  rotate: true
+  xy: 69, 2000
+  size: 25, 50
+  orig: 648, 1152
+  offset: 583, 292
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0057
+  rotate: true
+  xy: 5, 2009
+  size: 16, 32
+  orig: 648, 1152
+  offset: 587, 298
+  index: -1
+
+WinPlaque4.jpg
+size: 2032,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/winPlaque_sweep/win_plaque_sweep_0028
+  rotate: false
+  xy: 1034, 2
+  size: 504, 463
+  orig: 648, 1152
+  offset: 34, 274
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0029
+  rotate: false
+  xy: 1540, 3
+  size: 490, 462
+  orig: 648, 1152
+  offset: 53, 273
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0030
+  rotate: false
+  xy: 520, 2
+  size: 512, 463
+  orig: 648, 1152
+  offset: 69, 273
+  index: -1
+nonTrans/winPlaque_sweep/win_plaque_sweep_0031
+  rotate: false
+  xy: 2, 2
+  size: 516, 463
+  orig: 648, 1152
+  offset: 76, 274
+  index: -1
+
+WinPlaque.png
+size: 1553,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/NoWin
+  rotate: false
+  xy: 2, 2
+  size: 808, 584
+  orig: 824, 616
+  offset: 8, 24
+  index: -1
+Trans/win_plaque
+  rotate: false
+  xy: 812, 7
+  size: 739, 579
+  orig: 810, 1440
+  offset: 38, 365
+  index: -1
+
+WinPlaque2.png
+size: 1707,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/coinBurst/coinBurst_0014
+  rotate: true
+  xy: 1625, 345
+  size: 89, 80
+  orig: 320, 320
+  offset: 104, 122
+  index: -1
+Trans/coinBurst/coinBurst_0015
+  rotate: true
+  xy: 1591, 436
+  size: 133, 99
+  orig: 320, 320
+  offset: 82, 120
+  index: -1
+Trans/coinBurst/coinBurst_0016
+  rotate: true
+  xy: 1541, 8
+  size: 172, 124
+  orig: 320, 320
+  offset: 66, 117
+  index: -1
+Trans/coinBurst/coinBurst_0017
+  rotate: true
+  xy: 1457, 366
+  size: 203, 132
+  orig: 320, 320
+  offset: 52, 127
+  index: -1
+Trans/coinBurst/coinBurst_0018
+  rotate: false
+  xy: 1056, 21
+  size: 234, 147
+  orig: 320, 320
+  offset: 38, 125
+  index: -1
+Trans/coinBurst/coinBurst_0019
+  rotate: false
+  xy: 570, 8
+  size: 239, 156
+  orig: 320, 320
+  offset: 37, 128
+  index: -1
+Trans/coinBurst/coinBurst_0020
+  rotate: false
+  xy: 811, 3
+  size: 243, 164
+  orig: 320, 320
+  offset: 37, 130
+  index: -1
+Trans/coinBurst/coinBurst_0021
+  rotate: false
+  xy: 1292, 2
+  size: 247, 168
+  orig: 320, 320
+  offset: 36, 132
+  index: -1
+Trans/coinBurst/coinBurst_0022
+  rotate: false
+  xy: 696, 169
+  size: 249, 174
+  orig: 320, 320
+  offset: 35, 132
+  index: -1
+Trans/coinBurst/coinBurst_0023
+  rotate: false
+  xy: 442, 166
+  size: 252, 177
+  orig: 320, 320
+  offset: 34, 132
+  index: -1
+Trans/coinBurst/coinBurst_0024
+  rotate: false
+  xy: 1399, 182
+  size: 224, 182
+  orig: 320, 320
+  offset: 63, 130
+  index: -1
+Trans/coinBurst/coinBurst_0025
+  rotate: false
+  xy: 947, 170
+  size: 224, 186
+  orig: 320, 320
+  offset: 64, 128
+  index: -1
+Trans/coinBurst/coinBurst_0026
+  rotate: false
+  xy: 1173, 172
+  size: 224, 192
+  orig: 320, 320
+  offset: 64, 124
+  index: -1
+Trans/coinBurst/coinBurst_0027
+  rotate: true
+  xy: 625, 345
+  size: 224, 197
+  orig: 320, 320
+  offset: 65, 121
+  index: -1
+Trans/coinBurst/coinBurst_0028
+  rotate: true
+  xy: 422, 345
+  size: 224, 201
+  orig: 320, 320
+  offset: 66, 117
+  index: -1
+Trans/coinBurst/coinBurst_0029
+  rotate: true
+  xy: 215, 344
+  size: 225, 205
+  orig: 320, 320
+  offset: 66, 112
+  index: -1
+Trans/coinBurst/coinBurst_0030
+  rotate: false
+  xy: 214, 134
+  size: 226, 207
+  orig: 320, 320
+  offset: 66, 108
+  index: -1
+Trans/coinBurst/coinBurst_0031
+  rotate: true
+  xy: 2, 116
+  size: 225, 210
+  orig: 320, 320
+  offset: 67, 102
+  index: -1
+Trans/coinBurst/coinBurst_0032
+  rotate: true
+  xy: 2, 343
+  size: 226, 211
+  orig: 320, 320
+  offset: 68, 96
+  index: -1
+Trans/coinBurst/coinBurst_0033
+  rotate: true
+  xy: 824, 358
+  size: 211, 204
+  orig: 320, 320
+  offset: 84, 97
+  index: -1
+Trans/coinBurst/coinBurst_0034
+  rotate: false
+  xy: 1030, 366
+  size: 212, 203
+  orig: 320, 320
+  offset: 84, 91
+  index: -1
+Trans/coinBurst/coinBurst_0035
+  rotate: false
+  xy: 1244, 366
+  size: 211, 203
+  orig: 320, 320
+  offset: 85, 83
+  index: -1
+Trans/coinBurst/coinBurst_0036
+  rotate: true
+  xy: 367, 13
+  size: 119, 201
+  orig: 320, 320
+  offset: 85, 76
+  index: -1
+Trans/coinBurst/coinBurst_0037
+  rotate: true
+  xy: 2, 5
+  size: 109, 181
+  orig: 320, 320
+  offset: 86, 87
+  index: -1
+Trans/coinBurst/coinBurst_0038
+  rotate: true
+  xy: 185, 6
+  size: 108, 180
+  orig: 320, 320
+  offset: 86, 77
+  index: -1
+
+WinPlaque3.png
+size: 677,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/ghost/BODY
+  rotate: false
+  xy: 504, 324
+  size: 123, 180
+  orig: 500, 500
+  offset: 188, 149
+  index: -1
+Trans/ghost/EYE_L
+  rotate: true
+  xy: 613, 18
+  size: 12, 16
+  orig: 500, 500
+  offset: 224, 275
+  index: -1
+Trans/ghost/EYE_R
+  rotate: false
+  xy: 2, 4
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+Trans/ghost/HAT
+  rotate: false
+  xy: 504, 2
+  size: 107, 84
+  orig: 500, 500
+  offset: 186, 290
+  index: -1
+Trans/ghost/MOUTH
+  rotate: true
+  xy: 504, 225
+  size: 97, 87
+  orig: 500, 500
+  offset: 189, 204
+  index: -1
+Trans/ghost/THUMBS-UP_L
+  rotate: false
+  xy: 591, 93
+  size: 83, 130
+  orig: 500, 500
+  offset: 93, 218
+  index: -1
+Trans/ghost/THUMBS-UP_R
+  rotate: false
+  xy: 504, 88
+  size: 85, 135
+  orig: 500, 500
+  offset: 307, 221
+  index: -1
+Trans/ghost/TONGUE
+  rotate: false
+  xy: 593, 248
+  size: 68, 74
+  orig: 500, 500
+  offset: 205, 162
+  index: -1
+Trans/ghost/arm_L
+  rotate: false
+  xy: 613, 32
+  size: 56, 59
+  orig: 500, 500
+  offset: 149, 229
+  index: -1
+Trans/ghost/arm_R
+  rotate: true
+  xy: 629, 443
+  size: 61, 46
+  orig: 500, 500
+  offset: 272, 248
+  index: -1

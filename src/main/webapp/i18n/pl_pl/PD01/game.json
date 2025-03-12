@@ -1,0 +1,103 @@
+﻿{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "description": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+        "descriptionText1": "Nagroda natychmiastowej wygranej",
+        "descriptionText2": "Nagroda bonusowa Harce w trumnach",
+        "descriptionText3": "Nagroda bonusu Dawca organów",
+        "prizeDivision": "Stopień wygranej",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną"
+    },
+    "title": "Duszki",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Zasady gry",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_continue": "KONTYNUUJ",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_start": "START",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+        "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+        "message_win":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+        "picksLeft": "Pozostało do wyboru: {0}",
+        "bonusWin": "WYGRANA BONUSOWA",
+        "howToPlay": "ZASADY GRY",
+        "page1": "Wybierz 8 z 16 nagrobków w poszukiwaniu wygranych!\n\nOdkryj kwotę wygranej lub znajdź symbole bonusu aby uruchomić rundę dodatkową!",
+        "page2": "{coffinSymbol}{line1complete}Wybierz 1 z 2 trumien w każdej rundzie, aby schwytać duchy.\nZbierz odpowiednią liczbę duchów na mierniku, aby wygrać i przejść do następnej rundy. Wypłacana jest tylko wygrana z ostatniej ukończonej rundy.",
+        "page3": "{organSymbol}{line1complete}Graj na organach, aby odkrywać wygrane lub mnożnik.\nBonus zakończy się po odkryciu symbolu ZBIERZ.",
+        "winUpTo": "WYGRAJ DO {0}!",
+
+        "coffinBonus": "KARUZELA STRACHU",
+        "coffinBonusTutorial": "WYBIERZ TRUMNĘ, ABY WYPUŚCIĆ DUCHY I SCHWYTAĆ JE NA MIERNIKU DUCHÓW.\n\nZBIERZ ODPOWIEDNIO DUŻO DUCHÓW ABY PRZEJŚĆ DO NASTĘPNEJ RUNDY.\n\nW PRZECIWNYM RAZIE BONUS DOBIEGNIE KOŃCA!",
+        "coffinMessageStart": "WYBIERZ TRUMNĘ!",
+        "coffinMessageCollecting": "ZBIERAJ DUCHY!",
+        "coffinMessageContinue": "DOCHODZISZ DO NASTĘPNEJ RUNDY!",
+        "coffinMessageEnd": "KONIEC BONUSU, ODBIERZ NAGRODĘ!",
+        "organBonus": "UPIORNE ORGANY",
+        "organBonusTutorial": "GRAJ NA ORGANACH, ABY ODKRYWAĆ WYGRANE LUB MNOŻNIK.\n\nBONUS KOŃCZY SIĘ PO ODKRYCIU SYMBOLU ZBIERZ.",
+        "testWin": "$XX.XX",
+        "collect": "ZBIERZ"
+    }
+}

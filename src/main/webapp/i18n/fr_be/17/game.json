@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "est de {@minRTP} %",
+    "RTPrange": "est compris entre {@minRTP} % et {@maxRTP} %",
+    "paybackTitle": "Remboursement escompté",
+    "paybackBody": "Pour ce jeu, le remboursement théorique escompté sur le long terme est de {RTP}.",
+    "subheading": "Coût de la mise : {ticketCost}",
+    "prizeLevel": "Niveau du prix",
+    "description": "Description",
+    "prizeValue": "Valeur du prix",
+    "overallChances": "Il y a globalement 1 chance sur {odds} de gagner un prix lors de chaque tour.",
+    "descriptionText1": "Prix de gain instantané",
+    "descriptionText2": "Prix du bonus Profanateur de cercueil",
+    "descriptionText3": "Prix du bonus Don d'organe",
+    "prizeDivision": "Répartition des prix",
+    "prizeRemaining": "Prix restants approximatifs",
+    "oddsPerPlay": "Chances par tour"
+  },
+  "title": "SPOOKY CASH",
+  "MenuCommand": {
+    "price": "Prix",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Légende",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "ON",
+      "off": "OFF"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne s'est produite. QUITTEZ et relancez le jeu."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "MISE",
+    "ticketSelect_ticketCost": "MISE",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DÉMO "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN DÉMO"
+    },
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+    "button_try": "DÉMO",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "ACHETER",
+    "button_autoPlay": "TOUT RÉVÉLER",
+    "button_start": "ACHETER",
+    "button_stop": "ARRÊTER",
+    "button_playAgain": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+    "button_tryAgain": "DÉMO",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+    "button_retry": "ACHETER",
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+    "message_nonWin": "Dommage,\npas de gain.",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN TOTAL DÉMO"
+    },
+    "picksLeft": "Choix restants : {0}",
+    "bonusWin": "GAIN EXTRA",
+    "howToPlay": "COMMENT JOUER ?",
+    "page1": "Sélectionnez 8 pierres tombales et découvrez votre gain!\n\nDécouvrez un montant pour obtenir un gain instantané ou collectez des symboles bonus pour accéder aux jeux extra !",
+    "page2": "Collectez 3 {coffinSymbol}{line1complete} pour accéder au jeu extra « Cercueil ».\n\nSélectionnez 1 cercueil à chaque tour pour capturer des esprits dans le spiritomètre.\nCollectez suffisamment d'esprits dans le spiritomètre pour remporter un gain et passer au tour suivant. Seul le gain du dernier tour achevé est attribué.\nLe jeu extra prend fin lorsqu’il n’y a plus d’esprits à collecter ou que le gain maximal est attribué.",
+    "page3": "Collectez 3 {organSymbol}{line1complete} pour accéder au jeu extra « Orgue ».\n\nSélectionnez des touches de l'orgue pour faire apparaître un montant de gain ou un multiplicateur.\nDécouvrez la mention COLLECTE pour récolter vos éventuels gains.",
+    "winUpTo": "GAGNEZ JUSQU'À {0} !",
+
+    "coffinBonus": "JEU EXTRA CERCUEIL",
+    "coffinBonusTutorial": "SÉLECTIONNEZ UN CERCUEIL POUR LIBÉRER DES ESPRITS ET LES COLLECTER DANS LE SPIRITOMÈTRE.\n\nATTEIGNEZ {icon_help_blueLine} OU {icon_help_yellowLine} POUR GAGNER LE MONTANT INDIQUÉ ET PASSER AU TOUR SUIVANT.",
+    "coffinMessageStart": "CHOISISSEZ UN CERCUEIL POUR LIBÉRER DES ESPRITS !",
+    "coffinMessageCollecting": "ESPRITS COLLECTÉS !",
+    "coffinMessageContinue": " NOUVEAU TOUR !",
+    "coffinMessageEnd": "JEU EXTRA TERMINÉ !",
+    "organBonus": "JEU EXTRA ORGUE",
+    "organBonusTutorial": "APPUYEZ SUR UNE TOUCHE POUR FAIRE APPARAÎTRE DES GAINS OU DES MULTIPLICATEURS.\n\nUNE SEULE TOUCHE PEUT ÊTRE SÉLECTIONNÉE À LA FOIS.\n\nLE JEU EXTRA PREND FIN LORSQUE VOUS DÉCOUVREZ LA MENTION « COLLECTE ».",
+    "testWin": "XX,XX $",
+    "collect": "COLLECTE"
+  }
+}

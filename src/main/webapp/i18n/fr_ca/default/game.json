@@ -1,0 +1,93 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "est de {@minRTP} %",
+    "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "description": "Description",
+    "prizeValue": "Valeur du lot",
+    "overallChances": "Globalement, vous avez 1 chance sur {odds} de gagner un lot à chaque partie.",
+    "descriptionText1": "Lot instantané",
+    "descriptionText2": "Jeu boni du cercueil",
+    "descriptionText3": "Jeu boni de l'orgue",
+    "prizeDivision": "Répartition des lots",
+    "prizeRemaining": "Nombre approximatif de lots restants",
+    "oddsPerPlay": "Chances par partie"
+  },
+  "title": "MODÈLE",
+  "MenuCommand": {
+    "price": "Coût",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_start": "DÉBUT",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+    "button_retry": "ESSAYER DE NOUVEAU",
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+    "message_nonWin": "MEILLEURE CHANCE \nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+    "picksLeft": "Sélections restantes : {0}",
+    "bonusWin": "GAIN BONI",
+    "howToPlay": "COMMENT JOUER",
+    "page1": "Sélectionnez 8 des 16 pierres tombales à la recherche de richesses fantomatiques!\n\nDécouvrez un lot et gagnez-le instantanément ou amassez des symboles bonis pour déclencher un jeu boni!",
+    "page2": "Amassez trois symboles {coffinSymbol}{line1complete}pour déclencher le jeu boni du cercueil.\n\nSélectionnez l'un des deux cercueils à chaque ronde pour capturer les esprits dans le compteur d'esprits.\nAmassez suffisamment d'esprits dans le compteur pour gagner un lot et avancer à la ronde suivante. Seul le lot de la dernière ronde complétée est accordé.\nLe jeu boni prend fin lorsque les esprits s'échappent sans remplir le compteur, ou que le lot le plus élevé est accordé.",
+    "page3": "Amassez trois symboles {organSymbol}{line1complete}pour déclencher le jeu boni de l'orgue.\n\nSélectionnez des touches de l'orgue pour dévoiler des lots en argent ou un multiplicateur.\nDécouvrir le symbole Encaisser met fin au jeu boni.",
+    "winUpTo": "GAGNEZ JUSQU’À {0}!",
+
+    "coffinBonus": "JEU BONI DU CERCUEIL",
+    "coffinBonusTutorial": "SÉLECTIONNEZ UN CERCUEIL POUR LIBÉRER LES ESPRITS ET LES CAPTURER DANS LE COMPTEUR D'ESPRITS.\n\nATTEIGNEZ LA MARQUE {icon_help_blueLine} OU {icon_help_yellowLine} POUR GAGNER LE LOT ET PASSER À LA RONDE SUIVANTE.\n\nSI VOUS N'ATTEIGNEZ PAS LA MARQUE, LE BONI PREND FIN!",
+    "coffinMessageStart": "SÉLECTIONNEZ UN CERCUEIL POUR LIBÉRER LES ESPRITS!",
+    "coffinMessageCollecting": "AMASSEZ DES ESPRITS",
+    "coffinMessageContinue": "PROCHAINE RONDE RÉUSSIE!",
+    "coffinMessageEnd": "JEU BONI TERMINÉ, RÉCUPÉREZ VOTRE GAIN!",
+    "organBonus": "JEU BONI DE L'ORGUE",
+    "organBonusTutorial": "APPUYEZ SUR UNE TOUCHE ACTIVE POUR DÉVOILER DES LOTS EN ARGENT OU DES MULTIPLICATEURS.\n\nVOUS POUVEZ APPUYER SUR UNE TOUCHE À N'IMPORTE QUEL MOMENT.\n\nLE JEU BONI PREND FIN LORSQUE VOUS DÉCOUVREZ LE SYMBOLE ENCAISSER.",
+    "testWin": "$XX.XX",
+    "collect": "ENCAISSER"
+  }
+}
